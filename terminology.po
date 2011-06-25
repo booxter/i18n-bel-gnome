@@ -1,0 +1,5300 @@
+#. extracted from gnome-terminology.csv
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-terminology\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-26 17:47+0300\n"
+"PO-Revision-Date: 2011-03-28 15:43+0200\n"
+"Last-Translator: Ігар <ihar.hrachyshka@gmail.com>\n"
+"Language-Team: Belarusian Gnome team <i18n@mova.org>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgctxt "verb, +перарываць"
+msgid "abort"
+msgstr "перарваць"
+
+msgid "accelerator key"
+msgstr "хуткая клавіша"
+
+msgctxt "verb 1, +ухваляць"
+msgid "accept"
+msgstr "ухваліць"
+
+msgctxt "verb 2, +пацвярджаць"
+msgid "accept"
+msgstr "пацвердзіць"
+
+msgctxt "verb 3, +прымаць"
+msgid "accept"
+msgstr "прыняць"
+
+msgctxt "verb, +даступацца"
+msgid "access"
+msgstr "даступіцца"
+
+msgctxt "noun, -у"
+msgid "access"
+msgstr "доступ"
+
+msgid "accessibility"
+msgstr "даступнасць"
+
+msgid "access key"
+msgstr "клавіша доступу"
+
+msgctxt "noun, computing, -а"
+msgid "account"
+msgstr "конт"
+
+msgctxt "noun, banking, -а"
+msgid "account"
+msgstr "рахунак"
+
+msgid "action"
+msgstr "дзеянне"
+
+msgctxt "verb, +уключаць"
+msgid "activate"
+msgstr "уключыць"
+
+msgctxt "adjective 1"
+msgid "active"
+msgstr "дзейны"
+
+msgctxt "adjective 2"
+msgid "active"
+msgstr "рухавы"
+
+msgctxt "adjective 3"
+msgid "active"
+msgstr "актыўны"
+
+msgid "active window"
+msgstr "дзейнае акно"
+
+msgid "activity"
+msgstr "дзейнасць"
+
+msgctxt "verb 1, +прыстасоўваць"
+msgid "adapt"
+msgstr "прыстасаваць; прыстасоўвацца, прыстасавацца"
+
+msgctxt "verb 2, +прыстасоўвацца"
+msgid "adapt"
+msgstr "прыстасавацца"
+
+msgid "adaptable"
+msgstr "прыстасавальны"
+
+msgid "adaptation"
+msgstr "прыстасоўванне"
+
+msgid "adaption"
+msgstr "прыстасоўванне"
+
+msgid "adapter"
+msgstr "адаптар"
+
+msgid "adaptor"
+msgstr "адаптар"
+
+msgid "add-on"
+msgstr "дадатак"
+
+msgid "addon"
+msgstr "дадатак"
+
+msgctxt "noun, -а, -оў"
+msgid "address"
+msgstr "адрас"
+
+msgctxt "verb"
+msgid "address"
+msgstr "адрасаваць"
+
+msgctxt "verb 1, +падстройваць"
+msgid "adjust"
+msgstr "падстроіць; падстройвацца, падстроіцца"
+
+msgctxt "verb 2, +падстройвацца"
+msgid "adjust"
+msgstr "падстроіцца"
+
+msgctxt "noun"
+msgid "admin"
+msgstr "адміністратар"
+
+msgctxt "adjective"
+msgid "admin"
+msgstr "адміністрацыйны"
+
+msgctxt "verb 1"
+msgid "admin"
+msgstr "адміністраваць"
+
+msgctxt "verb 2"
+msgid "admin"
+msgstr "кіраваць"
+
+msgctxt "verb 1"
+msgid "administrate"
+msgstr "адміністраваць"
+
+msgctxt "verb 2"
+msgid "administrate"
+msgstr "кіраваць"
+
+msgctxt "noun 1"
+msgid "administration"
+msgstr "адміністраванне"
+
+msgctxt "noun 2"
+msgid "administration"
+msgstr "кіраванне"
+
+msgctxt "noun 3"
+msgid "administration"
+msgstr "адміністрацыя"
+
+msgid "administrative"
+msgstr "адміністрацыйны"
+
+msgid "administrator"
+msgstr "адміністратар"
+
+msgctxt "verb 1, +прасоўваць"
+msgid "advance"
+msgstr "прасунуць"
+
+msgctxt "verb 2, +паскараць"
+msgid "advance"
+msgstr "паскорыць"
+
+msgctxt "adjective"
+msgid "advance"
+msgstr "заўчасны"
+
+msgctxt "adjective 1"
+msgid "advanced"
+msgstr "прасунуты"
+
+msgctxt "adjective 2"
+msgid "advanced"
+msgstr "адмысловы"
+
+msgctxt "adjective 3"
+msgid "advanced"
+msgstr "сучасны"
+
+msgctxt "noun"
+msgid "advantage"
+msgstr "перавага"
+
+msgctxt "verb"
+msgid "advantage"
+msgstr "пераважаць"
+
+msgid "advantaged"
+msgstr "пераважны"
+
+msgid "agent"
+msgstr "агенцкая праграма"
+
+msgctxt "adjective"
+msgid "alert"
+msgstr "перасцерагальны"
+
+msgctxt "noun 1"
+msgid "alert"
+msgstr "перасцераганне"
+
+msgctxt "noun 2"
+msgid "alert"
+msgstr "перасцярога"
+
+msgctxt "noun 3"
+msgid "alert"
+msgstr "запытанне"
+
+msgctxt "verb, +перасцерагаць"
+msgid "alert"
+msgstr "перасцерагчы"
+
+msgid "alias"
+msgstr "псеўданім"
+
+msgctxt "noun 1"
+msgid "aliasing"
+msgstr "выкарыстанне псеўданіма"
+
+msgctxt "noun 2"
+msgid "aliasing"
+msgstr "шурпатасць выявы"
+
+msgctxt "verb 1, +надзяляць"
+msgid "allocate"
+msgstr "надзяліць"
+
+msgctxt "verb 2, +размяркоўваць"
+msgid "allocate"
+msgstr "размеркаваць"
+
+msgctxt "noun 1"
+msgid "allocation"
+msgstr "надзяленне"
+
+msgctxt "noun 2"
+msgid "allocation"
+msgstr "размеркаванне"
+
+msgid "alphanumeric"
+msgstr "літарна-лічбавы"
+
+msgctxt "verb, +згладжваць"
+msgid "antialias"
+msgstr "згладзіць"
+
+msgid "API"
+msgstr "інтэрфейс праграмавання"
+
+msgctxt "noun 1, -у"
+msgid "appearance"
+msgstr "выгляд"
+
+msgctxt "noun 2"
+msgid "appearance"
+msgstr "з'яўленне"
+
+msgctxt "noun 3"
+msgid "appearance"
+msgstr "узнікненне"
+
+msgctxt "verb, +дадаваць у канец"
+msgid "append"
+msgstr "дадаць у канец"
+
+msgctxt "noun, -а"
+msgid "applet"
+msgstr "аплет"
+
+msgctxt "adjective 1"
+msgid "applicable"
+msgstr "прыдатны"
+
+msgctxt "adjective 2"
+msgid "applicable"
+msgstr "адпаведны"
+
+msgctxt "adjective 3"
+msgid "applicable"
+msgstr "дарэчны"
+
+msgctxt "noun 1"
+msgid "application"
+msgstr "праграма"
+
+msgctxt "noun 2"
+msgid "application"
+msgstr "ужыванне"
+
+msgctxt "noun 3"
+msgid "application"
+msgstr "дастасаванне"
+
+msgid "application programming interface"
+msgstr "інтэрфейс праграмавання"
+
+msgctxt "noun, -а"
+msgid "application registry"
+msgstr "рэестр праграм"
+
+msgctxt "verb 1, +ужываць"
+msgid "apply"
+msgstr "ужыць"
+
+msgctxt "verb 2, на паверхню, +класці"
+msgid "apply"
+msgstr "пакласці"
+
+msgid "arbitrary"
+msgstr "любы, адвольны"
+
+msgctxt "noun, -а"
+msgid "archive"
+msgstr "архіў"
+
+msgctxt "noun 1, -у"
+msgid "area"
+msgstr "абсяг"
+
+msgctxt "noun 2"
+msgid "area"
+msgstr "плошча"
+
+msgctxt "noun 3"
+msgid "area"
+msgstr "дзялянка"
+
+msgctxt "verb, +парадкаваць"
+msgid "arrange"
+msgstr "упарадкаваць"
+
+msgctxt "noun, -у"
+msgid "arrangement"
+msgstr "парадак"
+
+msgid "arrow"
+msgstr "стрэлка"
+
+msgid "arrow button"
+msgstr "кнопка са стрэлкай"
+
+msgctxt "noun, -у"
+msgid "ascending order"
+msgstr "прамы парадак"
+
+msgctxt "noun, -а"
+msgid "assistant"
+msgstr "памочнік"
+
+msgctxt "verb 1, +прычапляць"
+msgid "attach"
+msgstr "прычапіць"
+
+msgctxt "verb 2, +сашчапляць"
+msgid "attach"
+msgstr "сашчапіць"
+
+msgctxt "noun 1, -а"
+msgid "attachment"
+msgstr "прычэплены файл"
+
+msgctxt "noun 2"
+msgid "attachment"
+msgstr "прычэпліванне"
+
+msgctxt "noun 3"
+msgid "attachment"
+msgstr "сашчэпліванне"
+
+msgctxt "noun, -а"
+msgid "attribute"
+msgstr "атрыбут"
+
+msgid "aural"
+msgstr "слыхавы"
+
+msgid "authentication"
+msgstr "ідэнтыфікацыя"
+
+msgid "authenticate"
+msgstr "ідэнтыфікаваць"
+
+msgctxt "noun 1, -а"
+msgid "author"
+msgstr "аўтар"
+
+msgctxt "noun 2, -а"
+msgid "author"
+msgstr "стваральнік"
+
+msgid "authoring"
+msgstr "распрацоўванне"
+
+msgid "authoritative"
+msgstr "варты даверу"
+
+msgctxt "noun 1"
+msgid "authority"
+msgstr "вартая даверу крыніца"
+
+msgctxt "noun 2"
+msgid "authority"
+msgstr "улада"
+
+msgid "authorization"
+msgstr "упаўнаважанне"
+
+msgctxt "verb, +упаўнаважваць"
+msgid "authorize"
+msgstr "упаўнаважыць"
+
+msgctxt "adjective 1"
+msgid "available"
+msgstr "даступны"
+
+msgctxt "adjective 2"
+msgid "available"
+msgstr "вольны"
+
+msgctxt "noun 1, -а"
+msgid "background"
+msgstr "фон"
+
+msgctxt "noun 2, -а, =wallpaper"
+msgid "background"
+msgstr "абрус"
+
+msgctxt "noun 3, -а"
+msgid "background"
+msgstr "задні план"
+
+msgctxt "noun, -а"
+msgid "backslash"
+msgstr "адваротны скос"
+
+msgctxt "noun, -а"
+msgid "backtrace"
+msgstr "пратакол выклікаў функцый"
+
+msgctxt "verb, +ствараць запасную копію"
+msgid "back up"
+msgstr "стварыць запасную копію"
+
+msgctxt "noun"
+msgid "backup"
+msgstr "запасная копія"
+
+msgctxt "adjective"
+msgid "backup"
+msgstr "запасны"
+
+msgctxt "verb, +ствараць запасную копію"
+msgid "backup"
+msgstr "стварыць запасную копію"
+
+msgctxt "noun, -а"
+msgid "backup server"
+msgstr "запасальны сервер"
+
+msgctxt "verb 1, +забараняць"
+msgid "ban"
+msgstr "забараніць"
+
+msgctxt "verb 2, +баніць"
+msgid "ban"
+msgstr "забаніць"
+
+msgctxt "noun 1"
+msgid "ban"
+msgstr "забарона"
+
+msgctxt "noun 2, -у"
+msgid "ban"
+msgstr "бан"
+
+msgctxt "noun 1"
+msgid "bar"
+msgstr "паліца"
+
+msgctxt "noun 2"
+msgid "bar"
+msgstr "стужка"
+
+msgid "basic"
+msgstr "асноўны"
+
+msgctxt "noun, -а"
+msgid "batch"
+msgstr "пакет"
+
+msgctxt "noun, -а"
+msgid "batch file"
+msgstr "пакетны файл"
+
+msgctxt "noun, -а"
+msgid "bell"
+msgstr "званок"
+
+msgctxt "verb, +званіць"
+msgid "bell"
+msgstr "пазваніць"
+
+msgctxt "noun, -а"
+msgid "benchmark"
+msgstr "эталон"
+
+msgctxt "verb, +параўноўваць з эталонам"
+msgid "benchmark"
+msgstr "параўнаць з эталонам"
+
+msgid "bitmap"
+msgstr "растравая выява"
+
+msgid "blank"
+msgstr "пусты"
+
+msgctxt "verb, +прысылаць таемную копію"
+msgid "blind-copy"
+msgstr "прыслаць таемную копію"
+
+msgctxt "noun, -а"
+msgid "blog"
+msgstr "блог"
+
+msgctxt "verb, +пісаць у блог"
+msgid "blog"
+msgstr "напісаць у блог"
+
+msgid "blogosphere"
+msgstr "блогасфера"
+
+msgctxt "noun, блок са спасылкамі на блогі"
+msgid "blogroll"
+msgstr "вязка блогаў"
+
+msgctxt "noun 1"
+msgid "body"
+msgstr "цела"
+
+msgctxt "noun 2"
+msgid "body"
+msgstr "асноўная частка"
+
+msgid "bold"
+msgstr "тоўсты"
+
+msgctxt "noun"
+msgid "bookmark"
+msgstr "закладка"
+
+msgctxt "verb, +рабіць закладку"
+msgid "bookmark"
+msgstr "зрабіць закладку"
+
+msgctxt "verb, +запускаць камп'ютар"
+msgid "boot"
+msgstr "запусціць камп'ютар"
+
+msgctxt "noun, -у"
+msgid "boot"
+msgstr "запуск камп'ютара"
+
+msgid "boot loader"
+msgstr "праграма запуску камп'ютара"
+
+msgctxt "noun, -у"
+msgid "bootstrap"
+msgstr "запуск камп'ютара"
+
+msgctxt "verb, +запускаць камп'ютар"
+msgid "bootstrap"
+msgstr "запусціць камп'ютар"
+
+msgctxt "noun 1, -ю"
+msgid "border"
+msgstr "край"
+
+msgctxt "noun 2"
+msgid "border"
+msgstr "аблямоўка"
+
+msgctxt "verb, +аблямоўваць"
+msgid "border"
+msgstr "аблямаваць"
+
+msgid "bordered"
+msgstr "аблямаваны"
+
+msgctxt "noun, -у, -оў"
+msgid "bottom"
+msgstr "ніз"
+
+msgctxt "adjective"
+msgid "bottom"
+msgstr "ніжні"
+
+msgid "bounce key"
+msgstr "рыкашэтная клавіша"
+
+msgid "box"
+msgstr "графа"
+
+msgctxt "noun, { or }"
+msgid "brace"
+msgstr "фігурная дужка"
+
+msgctxt "verb 1, +ламацца"
+msgid "break"
+msgstr "зламацца"
+
+msgctxt "verb 2, +ламаць"
+msgid "break"
+msgstr "зламаць"
+
+msgctxt "verb 3, +перапыняць"
+msgid "break"
+msgstr "перапыніць"
+
+msgctxt "noun 1, -у"
+msgid "break"
+msgstr "перапынак"
+
+msgctxt "noun 2, -у: line/paragraph/page b."
+msgid "break"
+msgstr "разрыў"
+
+msgctxt "noun 3, -у"
+msgid "break"
+msgstr "злом"
+
+msgctxt "noun, моста, -оў"
+msgid "bridge"
+msgstr "сеткавы мост"
+
+msgctxt "verb"
+msgid "broadcast"
+msgstr "трансляваць"
+
+msgctxt "noun"
+msgid "broadcast"
+msgstr "трансляцыя"
+
+msgctxt "verb, +аглядаць"
+msgid "browse"
+msgstr "аглядзець"
+
+msgctxt "noun, -у"
+msgid "browse"
+msgstr "агляд"
+
+msgctxt "noun, -а"
+msgid "browser"
+msgstr "аглядальнік"
+
+msgid "bug"
+msgstr "хіба"
+
+msgid "built-in"
+msgstr "убудаваны"
+
+msgid "bus"
+msgstr "магістраль"
+
+msgctxt "noun 1"
+msgid "button"
+msgstr "кнопка"
+
+msgctxt "noun 2, keyboard"
+msgid "button"
+msgstr "клавіша"
+
+msgctxt "verb, +скасоўваць"
+msgid "cancel"
+msgstr "скасаваць"
+
+msgctxt "noun 1"
+msgid "capability"
+msgstr "здольнасць"
+
+msgctxt "noun 2"
+msgid "capability"
+msgstr "магчымасць"
+
+msgctxt "noun 1"
+msgid "center"
+msgstr "сярэдзіна"
+
+msgctxt "noun 2"
+msgid "center"
+msgstr "цэнтр"
+
+msgctxt "verb, +змяшчаць у сярэдзіне"
+msgid "center"
+msgstr "змясціць у сярэдзіне"
+
+msgctxt "noun 1"
+msgid "centre"
+msgstr "сярэдзіна"
+
+msgctxt "noun 2"
+msgid "centre"
+msgstr "цэнтр"
+
+msgctxt "verb, +змяшчаць у сярэдзіне"
+msgid "centre"
+msgstr "змясціць у сярэдзіне"
+
+msgctxt "verb 1, +змяняць"
+msgid "change"
+msgstr "змяніць"
+
+msgctxt "verb 2, +змяняцца"
+msgid "change"
+msgstr "змяніцца"
+
+msgctxt "verb 3, +замяняць"
+msgid "change"
+msgstr "замяніць"
+
+msgctxt "noun 1"
+msgid "change"
+msgstr "змяненне"
+
+msgctxt "noun 2"
+msgid "change"
+msgstr "змена"
+
+msgctxt "noun, -а"
+msgid "changelog"
+msgstr "журнал змен"
+
+msgctxt "noun, -а"
+msgid "character"
+msgstr "знак"
+
+msgctxt "noun, -у"
+msgid "character set"
+msgstr "знаказбор"
+
+msgctxt "noun, -у"
+msgid "charset"
+msgstr "знаказбор"
+
+msgctxt "noun 1, -у"
+msgid "chat"
+msgstr "чат"
+
+msgctxt "noun 2"
+msgid "chat"
+msgstr "гамана"
+
+msgctxt "verb, +гаманіць"
+msgid "chat"
+msgstr "пагаманіць"
+
+msgctxt "verb 1, +правяраць"
+msgid "check"
+msgstr "праверыць"
+
+msgctxt "verb 2, +спраўджваць"
+msgid "check"
+msgstr "спраўдзіць"
+
+msgctxt "noun 1"
+msgid "check"
+msgstr "праверка"
+
+msgctxt "noun 2"
+msgid "check"
+msgstr "спраўджванне"
+
+msgctxt "noun, -а"
+msgid "check box"
+msgstr "пераключальнік"
+
+msgid "checksum"
+msgstr "праверачная сума"
+
+msgctxt "verb 1, +абіраць"
+msgid "choose"
+msgstr "абраць"
+
+msgctxt "verb 2, +выбіраць"
+msgid "choose"
+msgstr "выбраць"
+
+msgctxt "adjective 1"
+msgid "clean"
+msgstr "чысты"
+
+msgctxt "adjective 2"
+msgid "clean"
+msgstr "правільны"
+
+msgid "clean-up"
+msgstr "ачышчэнне"
+
+msgid "cleanup"
+msgstr "ачышчэнне"
+
+msgctxt "verb, +ачышчаць"
+msgid "clear"
+msgstr "ачысціць"
+
+msgctxt "verb, +пстрыкаць"
+msgid "click"
+msgstr "пстрыкнуць"
+
+msgctxt "verb, +утрымліваць пстрычку"
+msgid "click-and-hold"
+msgstr "утрымаць пстрычку"
+
+msgctxt "noun 1, -а"
+msgid "client"
+msgstr "кліенцкі камп'ютар"
+
+msgctxt "noun 2"
+msgid "client"
+msgstr "кліенцкая праграма"
+
+msgid "clipboard"
+msgstr "?"
+
+msgctxt "verb 1, +зачыняць: c. file, folder, window"
+msgid "close"
+msgstr "зачыніць"
+
+msgctxt "verb 2, +закрываць: =hide"
+msgid "close"
+msgstr "закрыць"
+
+msgctxt "verb, +згортваць"
+msgid "collapse"
+msgstr "згарнуць"
+
+msgctxt "verb 1, +збіраць"
+msgid "collect"
+msgstr "сабраць"
+
+msgctxt "verb 2"
+msgid "collect"
+msgstr "калекцыянаваць"
+
+msgctxt "verb 3, +браць"
+msgid "collect"
+msgstr "узяць"
+
+msgctxt "noun, -у"
+msgid "collection"
+msgstr "збор"
+
+msgctxt "adjective 1"
+msgid "collective"
+msgstr "супольны"
+
+msgctxt "adjective 2"
+msgid "collective"
+msgstr "калектыўны"
+
+msgctxt "noun, -а"
+msgid "collector"
+msgstr "збіральнік"
+
+msgid "color selector button"
+msgstr "кнопка выбару колеру"
+
+msgctxt "noun, -у"
+msgid "color selector dialog"
+msgstr "дыялог выбару колеру"
+
+msgid "color wheel"
+msgstr "кола колераў"
+
+msgctxt "noun, -а"
+msgid "column"
+msgstr "слупок"
+
+msgctxt "noun, -а"
+msgid "column heading"
+msgstr "загаловак слупка"
+
+msgctxt "verb, +спалучаць"
+msgid "combine"
+msgstr "спалучыць"
+
+msgid "combo box"
+msgstr "графа з выплыўным спісам"
+
+msgctxt "noun, -у"
+msgid "command"
+msgstr "загад"
+
+msgid "command button"
+msgstr "загадная кнопка"
+
+msgctxt "noun, -а"
+msgid "command line"
+msgstr "загадны радок"
+
+msgctxt "adjective 1"
+msgid "common"
+msgstr "часты"
+
+msgctxt "adjective 2"
+msgid "common"
+msgstr "звычайны"
+
+msgctxt "adjective 3"
+msgid "common"
+msgstr "супольны"
+
+msgid "communication"
+msgstr "камунікацыя"
+
+msgctxt "adjective"
+msgid "compact"
+msgstr "шчыльны"
+
+msgctxt "verb 1, +сціскаць"
+msgid "compact"
+msgstr "сціснуць"
+
+msgctxt "verb 2, +ушчыльняць"
+msgid "compact"
+msgstr "ушчыльніць"
+
+msgctxt "noun, -а"
+msgid "compact disc"
+msgstr "кампакт-дыск"
+
+msgctxt "verb 1, +збіраць"
+msgid "compile"
+msgstr "сабраць"
+
+msgctxt "verb 2, +кампіляваць"
+msgid "compile"
+msgstr "скампіляваць"
+
+msgctxt "noun 1, -а"
+msgid "compiler"
+msgstr "кампілятар"
+
+msgctxt "noun 2, -а"
+msgid "compiler"
+msgstr "збіральнік"
+
+msgctxt "adjective 1"
+msgid "complete"
+msgstr "поўны"
+
+msgctxt "adjective 2"
+msgid "complete"
+msgstr "скончаны"
+
+msgctxt "verb 1, +канчаць, +сканчаць, =кончыць"
+msgid "complete"
+msgstr "скончыць"
+
+msgctxt "verb 2, +дапаўняць"
+msgid "complete"
+msgstr "дапоўніць"
+
+msgctxt "verb 3, +запаўняць"
+msgid "complete"
+msgstr "запоўніць"
+
+msgid "completion"
+msgstr "дапаўненне"
+
+msgctxt "noun, -а"
+msgid "component"
+msgstr "складнік"
+
+msgctxt "adjective"
+msgid "component"
+msgstr "складовы"
+
+msgid "compose keyboard"
+msgstr "экранная клавіятура"
+
+msgctxt "verb 1, +пісаць"
+msgid "compose"
+msgstr "напісаць"
+
+msgctxt "verb 2, +складаць"
+msgid "compose"
+msgstr "скласці"
+
+msgctxt "noun 1, -а"
+msgid "composition"
+msgstr "складаны аб'ект"
+
+msgctxt "noun 2, -а"
+msgid "composition"
+msgstr "твор"
+
+msgctxt "noun 3"
+msgid "composition"
+msgstr "пісанне"
+
+msgctxt "verb, +сціскаць"
+msgid "compress"
+msgstr "сціснуць"
+
+msgid "compression"
+msgstr "сцісканне"
+
+msgid "computation"
+msgstr "лічэнне"
+
+msgctxt "verb, +лічыць"
+msgid "compute"
+msgstr "злічыць"
+
+msgctxt "noun 1, -а"
+msgid "computer"
+msgstr "камп'ютар"
+
+msgctxt "noun 2"
+msgid "computer"
+msgstr "машына"
+
+msgid "computer game"
+msgstr "камп'ютарная гульня"
+
+msgid "computerize"
+msgstr "камп'ютарызаваць"
+
+msgid "computer literacy"
+msgstr "камп'ютарная пісьменнасць"
+
+msgid "computer-literate"
+msgstr "камп'ютарна пісьменны"
+
+msgid "computer science"
+msgstr "інфарматыка"
+
+msgctxt "noun 1"
+msgid "confidentiality"
+msgstr "сакрэтнасць"
+
+msgctxt "noun 2"
+msgid "confidentiality"
+msgstr "таемнасць"
+
+msgctxt "noun 3"
+msgid "confidentiality"
+msgstr "давернасць"
+
+msgctxt "noun 4"
+msgid "confidentiality"
+msgstr "канфідэнцыяльнасць"
+
+msgid "configuration"
+msgstr "канфігурацыя"
+
+msgctxt "verb, +настройваць канфігурацыю"
+msgid "configure"
+msgstr "настроіць канфігурацыю"
+
+msgctxt "verb 1, +правяраць"
+msgid "confirm"
+msgstr "праверыць"
+
+msgctxt "verb 2, +спраўджваць"
+msgid "confirm"
+msgstr "спраўдзіць"
+
+msgctxt "verb 3, +пацвярджаць"
+msgid "confirm"
+msgstr "пацвердзіць"
+
+msgctxt "verb 1, +злучаць"
+msgid "connect"
+msgstr "злучыць; звязваць, звязаць"
+
+msgctxt "verb 2, +звязваць"
+msgid "connect"
+msgstr "звязаць"
+
+msgid "connection"
+msgstr "злучэнне"
+
+msgid "console"
+msgstr "кансоль"
+
+msgctxt "verb 1, +змушаць"
+msgid "constrain"
+msgstr "змусіць"
+
+msgctxt "verb 2, +абмяжоўваць"
+msgid "constrain"
+msgstr "абмежаваць"
+
+msgid "constraint"
+msgstr "абмежаванне"
+
+msgctxt "noun 1"
+msgid "contact"
+msgstr "дотык"
+
+msgctxt "noun 2"
+msgid "contact"
+msgstr "кантакт"
+
+msgctxt "verb, +звязвацца"
+msgid "contact"
+msgstr "звязацца"
+
+msgctxt "noun, -а"
+msgid "container"
+msgstr "кантэйнер"
+
+msgid "content"
+msgstr "змесціва"
+
+msgctxt "noun, -у"
+msgid "contents"
+msgstr "змест"
+
+msgctxt "noun, -у"
+msgid "context"
+msgstr "кантэкст"
+
+msgid "context menu"
+msgstr "кантэкставае меню"
+
+msgctxt "verb, +рабіць уклад"
+msgid "contribute"
+msgstr "зрабіць уклад"
+
+msgctxt "noun, -а"
+msgid "contributor"
+msgstr "удзельнік"
+
+msgctxt "noun, -а"
+msgid "control"
+msgstr "кіроўны элемент"
+
+msgctxt "verb"
+msgid "control"
+msgstr "кіраваць"
+
+msgctxt "noun, -а"
+msgid "control character"
+msgstr "кіроўны знак"
+
+msgid "control key"
+msgstr "кіроўная клавіша"
+
+msgctxt "verb, +пераўтвараць"
+msgid "convert"
+msgstr "пераўтварыць"
+
+msgctxt "noun, -а"
+msgid "convertor"
+msgstr "пераўтваральнік"
+
+msgctxt "noun, -а"
+msgid "cookie"
+msgstr "квіток"
+
+msgid "coordinate"
+msgstr "каардынаваць"
+
+msgctxt "noun, -а"
+msgid "coordinator"
+msgstr "каардынатар"
+
+msgctxt "noun"
+msgid "copy"
+msgstr "копія"
+
+msgctxt "verb, +капіраваць"
+msgid "copy"
+msgstr "скапіраваць"
+
+msgid "copyleft"
+msgstr "аўтарскае лева"
+
+msgid "copyright"
+msgstr "аўтарскае права"
+
+msgctxt "noun, -а"
+msgid "core dump"
+msgstr "адбітак памяці працэсу"
+
+msgctxt "adjective"
+msgid "correct"
+msgstr "беспамылковы"
+
+msgctxt "verb, +выпраўляць"
+msgid "correct"
+msgstr "выправіць"
+
+msgid "correction"
+msgstr "выпраўленне"
+
+msgctxt "adjective"
+msgid "corrupt"
+msgstr "пашкоджаны"
+
+msgctxt "adjective 2"
+msgid "corrupt"
+msgstr "сапсаваны"
+
+msgctxt "verb 1, +шкодзіць"
+msgid "corrupt"
+msgstr "пашкодзіць"
+
+msgctxt "verb 2, +псаваць"
+msgid "corrupt"
+msgstr "сапсаваць"
+
+msgctxt "noun, -а"
+msgid "CPU"
+msgstr "працэсар"
+
+msgctxt "noun, -а"
+msgid "creator"
+msgstr "стваральнік"
+
+msgctxt "noun, -а"
+msgid "credential"
+msgstr "мандат"
+
+msgid "credits"
+msgstr "падзякі"
+
+msgid "criteria"
+msgstr "крытэрыі"
+
+msgid "criterion"
+msgstr "крытэрый"
+
+msgctxt "adjective 1"
+msgid "current"
+msgstr "бягучы"
+
+msgctxt "adjective 2"
+msgid "current"
+msgstr "дзейны"
+
+msgctxt "adjective 3"
+msgid "current"
+msgstr "цяперашні"
+
+msgid "current viewport"
+msgstr "дзейная прастора прагляду"
+
+msgid "current workspace"
+msgstr "дзейная прастора працы"
+
+msgctxt "noun, -а"
+msgid "cursor"
+msgstr "курсор"
+
+msgid "custom"
+msgstr "уласны"
+
+msgctxt "verb 1, +падганяць"
+msgid "customize"
+msgstr "падагнаць"
+
+msgctxt "verb 2, +прыстасоўваць"
+msgid "customize"
+msgstr "прыстасаваць"
+
+msgid "cut"
+msgstr "выразаць"
+
+msgctxt "noun, -а"
+msgid "daemon"
+msgstr "дэман"
+
+msgctxt "noun"
+msgid "damage"
+msgstr "пашкоджанне"
+
+msgctxt "verb, +шкодзіць"
+msgid "damage"
+msgstr "пашкодзіць"
+
+msgid "data"
+msgstr "даныя"
+
+msgid "database"
+msgstr "база даных"
+
+msgctxt "verb, +выключаць"
+msgid "deactivate"
+msgstr "выключыць"
+
+msgctxt "adjective"
+msgid "debug"
+msgstr "адладачны"
+
+msgctxt "verb, +наладжваць"
+msgid "debug"
+msgstr "адладзіць"
+
+msgid "debugging"
+msgstr "адладка"
+
+msgid "decode"
+msgstr "дэкадаваць"
+
+msgctxt "noun, -а"
+msgid "decoder"
+msgstr "дэкадавальнік"
+
+msgctxt "verb, +расшыфроўваць"
+msgid "decrypt"
+msgstr "расшыфраваць"
+
+msgid "decryption"
+msgstr "расшыфроўванне"
+
+msgctxt "adjective 1"
+msgid "default"
+msgstr "прадвызначаны"
+
+msgctxt "adjective 2"
+msgid "default"
+msgstr "звычайны"
+
+msgid "default settings"
+msgstr "прадвызначаныя настройкі"
+
+msgctxt "verb, +азначаць"
+msgid "define"
+msgstr "азначыць"
+
+msgctxt "verb, +выдаляць"
+msgid "deinstall"
+msgstr "выдаліць"
+
+msgid "deinstaller"
+msgstr "прылада выдалення"
+
+msgctxt "verb, +сціраць"
+msgid "delete"
+msgstr "сцерці"
+
+msgctxt "verb, +адмяжоўваць"
+msgid "delimit"
+msgstr "адмежаваць"
+
+msgctxt "noun, -а"
+msgid "delimiter"
+msgstr "падзельны знак"
+
+msgctxt "verb, +старэць"
+msgid "deprecate"
+msgstr "састарэць"
+
+msgctxt "verb, +старэць"
+msgid "depreciate"
+msgstr "састарэць"
+
+msgctxt "noun, -у"
+msgid "descending order"
+msgstr "адваротны парадак"
+
+msgid "deselect"
+msgstr "зняць выбар"
+
+msgctxt "noun, -а, -оў"
+msgid "desktop"
+msgstr "стол"
+
+msgctxt "noun, -а, -оў"
+msgid "desktop background"
+msgstr "абрус"
+
+msgctxt "noun, -а"
+msgid "desktop entry file"
+msgstr "артыкульны файл стала"
+
+msgid "desktop environment"
+msgstr "працоўнае асяроддзе"
+
+msgctxt "noun, -а"
+msgid "desktop object"
+msgstr "настольны аб'ект"
+
+msgid "destination"
+msgstr "месца прызначэння"
+
+msgctxt "noun 1"
+msgid "detail"
+msgstr "дэталь"
+
+msgctxt "noun 2"
+msgid "detail"
+msgstr "падрабязнасць"
+
+msgctxt "verb, +выяўляць"
+msgid "detect"
+msgstr "выявіць"
+
+msgid "device"
+msgstr "прыстасаванне"
+
+msgctxt "noun, -у"
+msgid "dialog"
+msgstr "дыялог"
+
+msgid "dialog box"
+msgstr "акно дыялогу"
+
+msgctxt "noun, -а"
+msgid "dialog element"
+msgstr "складнік дыялогу"
+
+msgctxt "noun, -у"
+msgid "dialog pane"
+msgstr "абшар дыялогу"
+
+msgctxt "verb 1, +абагульняць"
+msgid "digest"
+msgstr "абагульніць"
+
+msgctxt "verb 2"
+msgid "digest"
+msgstr "рэзюмаваць"
+
+msgctxt "noun 1"
+msgid "digest"
+msgstr "абагульненне"
+
+msgctxt "noun 2"
+msgid "digest"
+msgstr "рэзюмэ"
+
+msgid "digital"
+msgstr "лічбавы"
+
+msgid "digital camera"
+msgstr "лічбавая камера"
+
+msgctxt "verb, +лічбаваць"
+msgid "digitize"
+msgstr "злічбаваць"
+
+msgctxt "noun, -а"
+msgid "directory"
+msgstr "каталог"
+
+msgctxt "noun, -а"
+msgid "directory entry file"
+msgstr "артыкульны файл каталога"
+
+msgctxt "verb, +выключаць"
+msgid "disable"
+msgstr "выключыць"
+
+msgctxt "noun, -а"
+msgid "disc"
+msgstr "дыск"
+
+msgctxt "verb, +адкідаць, +адкідваць"
+msgid "discard"
+msgstr "адкінуць"
+
+msgid "disclaimer"
+msgstr "адмова ад адказнасці"
+
+msgctxt "verb, +адлучаць"
+msgid "disconnect"
+msgstr "адлучыць"
+
+msgid "disconnection"
+msgstr "адлучэнне"
+
+msgctxt "noun, -а"
+msgid "disk"
+msgstr "дыск"
+
+msgid "disk space"
+msgstr "дыскавая прастора"
+
+msgctxt "verb, +паказваць"
+msgid "display"
+msgstr "паказаць"
+
+msgctxt "noun 1, -у"
+msgid "display"
+msgstr "паказ"
+
+msgctxt "noun 2, -а"
+msgid "display"
+msgstr "манітор"
+
+msgctxt "noun 3, -я: X Window System d."
+msgid "display"
+msgstr "дысплей"
+
+msgid "distant"
+msgstr "адлеглы"
+
+msgctxt "verb, +распаўсюджваць"
+msgid "distribute"
+msgstr "распаўсюдзіць"
+
+msgctxt "noun, -а"
+msgid "document"
+msgstr "дакумент"
+
+msgctxt "verb, +дакументаваць"
+msgid "document"
+msgstr "задакументаваць"
+
+msgid "documentation"
+msgstr "дакументацыя"
+
+msgid "double-click"
+msgstr "двойчы пстрыкнуць"
+
+msgctxt "verb, +сцягваць"
+msgid "download"
+msgstr "сцягнуць"
+
+msgctxt "noun 1"
+msgid "download"
+msgstr "сцягванне"
+
+msgctxt "noun 2, -а"
+msgid "download"
+msgstr "сцягнуты файл"
+
+msgctxt "noun, -а"
+msgid "draft"
+msgstr "чарнавік"
+
+msgctxt "verb, +перацягваць"
+msgid "drag"
+msgstr "перацягнуць"
+
+msgid "drag-and-drop"
+msgstr "перацягнуць і кінуць"
+
+msgid "drawer"
+msgstr "шуфляда"
+
+msgctxt "noun, -а"
+msgid "drive"
+msgstr "прывод"
+
+msgid "drop-down combination box"
+msgstr "графа з выплыўным спісам"
+
+msgctxt "noun, -а"
+msgid "drop-down list"
+msgstr "выплыўны спіс"
+
+msgctxt "noun, -а"
+msgid "drop-down section"
+msgstr "выплыўны раздзел"
+
+msgctxt "verb, +ствараць дублікат"
+msgid "duplicate"
+msgstr "стварыць дублікат"
+
+msgid "duration"
+msgstr "працягласць"
+
+msgctxt "noun, -ю"
+msgid "edge"
+msgstr "край"
+
+msgctxt "verb 1, +рэдагаваць"
+msgid "edit"
+msgstr "адрэдагаваць"
+
+msgctxt "verb 2, +правіць"
+msgid "edit"
+msgstr "паправіць"
+
+msgctxt "noun"
+msgid "edit"
+msgstr "праўка"
+
+msgid "editable"
+msgstr "папраўны"
+
+msgctxt "noun 1"
+msgid "edition"
+msgstr "рэдагаванне"
+
+msgctxt "noun 2"
+msgid "edition"
+msgstr "праўка"
+
+msgctxt "noun 3"
+msgid "edition"
+msgstr "выданне"
+
+msgctxt "noun, -а"
+msgid "editor"
+msgstr "рэдактар"
+
+msgctxt "verb, +вымаць"
+msgid "eject"
+msgstr "выняць"
+
+# comment 1
+msgctxt "noun 1, -а"
+msgid "element"
+msgstr "складнік"
+
+# comment 2
+msgctxt "noun 2, -а"
+msgid "element"
+msgstr "элемент"
+
+msgctxt "noun, -а"
+msgid "email"
+msgstr "электронны ліст"
+
+msgctxt "verb 1, +убудоўваць"
+msgid "embed"
+msgstr "убудаваць"
+
+msgctxt "verb 2, +укарэньваць"
+msgid "embed"
+msgstr "укараніць"
+
+msgid "embedded"
+msgstr "убудаваны"
+
+msgid "emblem"
+msgstr "эмблема"
+
+msgctxt "noun, -а"
+msgid "emoticon"
+msgstr "значок эмоцыі"
+
+msgid "empty"
+msgstr "пусты"
+
+msgctxt "verb, +уключаць"
+msgid "enable"
+msgstr "уключыць"
+
+msgctxt "verb 1, +укладаць"
+msgid "enclose"
+msgstr "укласці; абкладаць, абкласці"
+
+msgctxt "verb 2, +абкладаць"
+msgid "enclose"
+msgstr "абкласці"
+
+msgctxt "verb, +кадаваць"
+msgid "encode"
+msgstr "закадаваць"
+
+msgctxt "noun, -а"
+msgid "encoder"
+msgstr "кадавальнік"
+
+msgctxt "noun 1"
+msgid "encoding"
+msgstr "кадаванне"
+
+msgctxt "noun 2, -у"
+msgid "encoding"
+msgstr "спосаб кадавання"
+
+msgctxt "verb, +шыфраваць"
+msgid "encrypt"
+msgstr "зашыфраваць"
+
+msgid "encryption"
+msgstr "шыфраванне"
+
+msgctxt "noun, -у"
+msgid "endianness"
+msgstr "байтавы лад машыны"
+
+msgctxt "noun, -а"
+msgid "engine"
+msgstr "рухавік"
+
+msgctxt "verb, +паляпшаць"
+msgid "enhance"
+msgstr "палепшыць"
+
+msgctxt "verb 1, +павялічваць"
+msgid "enlarge"
+msgstr "павялічыць"
+
+msgctxt "verb 2, +павялічвацца"
+msgid "enlarge"
+msgstr "павялічыцца"
+
+msgctxt "verb 1, +уваходзіць"
+msgid "enter"
+msgstr "увайсці"
+
+msgctxt "verb 2, +уводзіць"
+msgid "enter"
+msgstr "увесці"
+
+msgctxt "verb 3, +распачынаць"
+msgid "enter"
+msgstr "распачаць"
+
+msgid "environment"
+msgstr "асяроддзе"
+
+msgid "environment variable"
+msgstr "зменная асяроддзя"
+
+msgctxt "noun, -а"
+msgid "errata"
+msgstr "спіс памылак"
+
+msgctxt "noun"
+msgid "erratum"
+msgstr "памылка"
+
+msgid "error"
+msgstr "памылка"
+
+msgctxt "verb, +прыкідваць"
+msgid "estimate"
+msgstr "прыкінуць"
+
+msgctxt "noun"
+msgid "estimate"
+msgstr "прыблізная ацэнка"
+
+msgid "event"
+msgstr "падзея"
+
+msgid "exception"
+msgstr "выключэнне"
+
+msgctxt "verb, +выконваць"
+msgid "execute"
+msgstr "выканаць"
+
+msgctxt "verb 1, +сканчаць працу"
+msgid "exit"
+msgstr "скончыць працу"
+
+msgctxt "verb 2, +выходзіць"
+msgid "exit"
+msgstr "выйсці"
+
+msgctxt "verb, +разгортваць"
+msgid "expand"
+msgstr "разгарнуць"
+
+msgctxt "verb 1, +старэць"
+msgid "expire"
+msgstr "састарэць, канчацца, вычэрпваць тэрмін прыдатнасці"
+
+msgctxt "verb 2, +сканчацца"
+msgid "expire"
+msgstr "скончыцца"
+
+msgctxt "verb 3, +вычэрпваць тэрмін прыдатнасці"
+msgid "expire"
+msgstr "вычарпаць тэрмін прыдатнасці"
+
+msgctxt "verb, +вывучаць"
+msgid "explore"
+msgstr "вывучыць"
+
+msgctxt "verb"
+msgid "export"
+msgstr "экспартаваць"
+
+msgctxt "noun 1"
+msgid "export"
+msgstr "экспарт"
+
+msgctxt "noun 2"
+msgid "export"
+msgstr "экспартаванне"
+
+msgctxt "noun 1"
+msgid "expression"
+msgstr "выраз"
+
+msgctxt "noun 2"
+msgid "expression"
+msgstr "выражэнне"
+
+msgctxt "verb 1, +сціраць"
+msgid "expunge"
+msgstr "сцерці"
+
+msgctxt "verb 2, +знішчаць"
+msgid "expunge"
+msgstr "знішчыць"
+
+msgctxt "verb, +пашыраць"
+msgid "extend"
+msgstr "пашырыць"
+
+msgctxt "noun 1: file e."
+msgid "extension"
+msgstr "пашырэнне"
+
+msgctxt "noun 2"
+msgid "extension"
+msgstr "прадаўжэнне"
+
+msgid "external"
+msgstr "вонкавы"
+
+msgctxt "verb, +вымаць"
+msgid "extract"
+msgstr "выняць"
+
+msgctxt "noun, =цытата"
+msgid "extract"
+msgstr "вынятка"
+
+msgctxt "verb 1"
+msgid "fail"
+msgstr "быць няўдалым"
+
+msgctxt "verb 2"
+msgid "fail"
+msgstr "не здолець"
+
+msgctxt "verb 3"
+msgid "fail"
+msgstr "перастаць правільна працаваць"
+
+msgid "fail-safe"
+msgstr "абаронены ад магчымай няўдачы"
+
+msgctxt "noun 1"
+msgid "failure"
+msgstr "няўдача"
+
+msgctxt "noun 2"
+msgid "failure"
+msgstr "памылка"
+
+msgctxt "noun, =Частыя Пытанні"
+msgid "FAQ"
+msgstr "ЧаПы"
+
+msgid "fault"
+msgstr "памылка"
+
+msgid "favorite"
+msgstr "упадабаны"
+
+msgid "favourite"
+msgstr "упадабаны"
+
+msgctxt "noun 1"
+msgid "feature"
+msgstr "асаблівасць, функцыя"
+
+msgctxt "noun 2"
+msgid "feature"
+msgstr "функцыя"
+
+msgid "feedback"
+msgstr "водгукі"
+
+msgid "field"
+msgstr "графа"
+
+msgctxt "noun, -а"
+msgid "file"
+msgstr "файл"
+
+msgctxt "adjective"
+msgid "file"
+msgstr "файлавы"
+
+msgctxt "verb, +прысылаць"
+msgid "file"
+msgstr "прыслаць"
+
+msgctxt "noun, -а"
+msgid "file content sniffer"
+msgstr "выведнік змесціва файлаў"
+
+msgid "filename"
+msgstr "назва файла"
+
+msgid "file system"
+msgstr "файлавая сістэма"
+
+msgctxt "noun, -у"
+msgid "file type"
+msgstr "тып файла"
+
+msgctxt "noun, -а"
+msgid "filter"
+msgstr "фільтр"
+
+msgctxt "verb, +фільтраваць"
+msgid "filter"
+msgstr "адфільтраваць"
+
+msgctxt "verb 1"
+msgid "find"
+msgstr "знайсці"
+
+msgctxt "verb 2"
+msgid "find"
+msgstr "адшукаць"
+
+msgid "fine tuning"
+msgstr "падстройванне"
+
+msgctxt "noun, -а"
+msgid "fingerprint"
+msgstr "адбітак"
+
+msgctxt "verb, +браць адбітак"
+msgid "fingerprint"
+msgstr "узяць адбітак"
+
+msgctxt "verb 1"
+msgid "finish"
+msgstr "скончыць"
+
+msgctxt "verb 2"
+msgid "finish"
+msgstr "скончыцца"
+
+msgctxt "noun 1"
+msgid "finish"
+msgstr "канец"
+
+msgctxt "noun 2"
+msgid "finish"
+msgstr "апошні этап"
+
+msgid "firmware"
+msgstr "апаратнае апраграмаванне"
+
+msgctxt "verb 1"
+msgid "fit"
+msgstr "пасаваць"
+
+msgctxt "verb 2"
+msgid "fit"
+msgstr "адпавядаць"
+
+msgctxt "verb 3, +спалучаць"
+msgid "fit"
+msgstr "спалучыць"
+
+msgctxt "verb 1, +выпраўляць"
+msgid "fix"
+msgstr "выправіць"
+
+msgctxt "verb 2, +фіксаваць"
+msgid "fix"
+msgstr "зафіксаваць"
+
+msgctxt "noun 1"
+msgid "fix"
+msgstr "выпраўленне"
+
+msgctxt "noun 2"
+msgid "fix"
+msgstr "рашэнне"
+
+msgid "fixed-pitch"
+msgstr "роўнашырокі"
+
+msgid "fixed-width"
+msgstr "роўнашырокі"
+
+msgctxt "noun 1"
+msgid "flag"
+msgstr "сцяжок"
+
+msgctxt "noun 2"
+msgid "flag"
+msgstr "пазнака"
+
+msgctxt "verb 1, +перагортваць"
+msgid "flip"
+msgstr "перагарнуць; перакульваць, перакуліць"
+
+msgctxt "verb 2, +перакульваць"
+msgid "flip"
+msgstr "перакуліць"
+
+msgctxt "verb, +назаляць"
+msgid "flood"
+msgstr "назаліць"
+
+msgid "flooder"
+msgstr "назола"
+
+msgctxt "noun 1"
+msgid "flow"
+msgstr "цячэнне"
+
+msgctxt "noun 2"
+msgid "flow"
+msgstr "бег"
+
+msgctxt "noun 3"
+msgid "flow"
+msgstr "паток"
+
+msgctxt "verb 1"
+msgid "flow"
+msgstr "цячы"
+
+msgctxt "verb 2"
+msgid "flow"
+msgstr "бегчы"
+
+msgid "flow chart"
+msgstr "блок-схема"
+
+msgid "floppy disk"
+msgstr "дыскета"
+
+msgctxt "noun, -а"
+msgid "focus"
+msgstr "фокус"
+
+msgctxt "verb 1, +перагібаць, +перагінаць"
+msgid "fold"
+msgstr "перагнуць"
+
+msgctxt "verb 2, +згібаць, +згінаць"
+msgid "fold"
+msgstr "сагнуць"
+
+msgctxt "verb 3, +складаць"
+msgid "fold"
+msgstr "скласці"
+
+msgctxt "verb 4, +абкладаць"
+msgid "fold"
+msgstr "абкласці"
+
+msgctxt "noun, -у"
+msgid "fold"
+msgstr "перагіб"
+
+msgid "folder"
+msgstr "папка"
+
+msgid "folderbar"
+msgstr "паліца папак"
+
+msgctxt "noun, -у, -оў"
+msgid "font"
+msgstr "шрыфт"
+
+msgid "font face"
+msgstr "гарнітура"
+
+msgid "font family"
+msgstr "гарнітура"
+
+msgid "font selector button"
+msgstr "кнопка выбару шрыфту"
+
+msgctxt "noun, -у"
+msgid "font selector dialog"
+msgstr "дыялог выбару шрыфту"
+
+msgctxt "noun, -у"
+msgid "font size"
+msgstr "памер шрыфту"
+
+msgctxt "noun, -ю"
+msgid "font style"
+msgstr "стыль шрыфту"
+
+msgctxt "verb 1, +прымушаць"
+msgid "force"
+msgstr "прымусіць"
+
+msgctxt "verb 2, +дабівацца"
+msgid "force"
+msgstr "дабіцца"
+
+msgctxt "noun, -а"
+msgid "foreground"
+msgstr "пярэдні план"
+
+msgctxt "noun, -у"
+msgid "format"
+msgstr "фармат"
+
+msgctxt "verb, +фарматаваць"
+msgid "format"
+msgstr "сфарматаваць"
+
+msgctxt "adjective 1"
+msgid "forward"
+msgstr "прамы"
+
+msgctxt "adjective 2"
+msgid "forward"
+msgstr "пярэдні"
+
+msgctxt "verb, +перасылаць"
+msgid "forward"
+msgstr "пераслаць"
+
+msgctxt "noun 1"
+msgid "foundation"
+msgstr "аснова"
+
+msgctxt "noun 2, -у"
+msgid "foundation"
+msgstr "фонд"
+
+msgctxt "noun 3"
+msgid "foundation"
+msgstr "заснаванне"
+
+msgctxt "noun 4, -а"
+msgid "foundation"
+msgstr "падмурак"
+
+msgctxt "noun 1, -а"
+msgid "fragment"
+msgstr "фрагмент"
+
+msgctxt "noun 2, -а"
+msgid "fragment"
+msgstr "урывак"
+
+msgctxt "noun 1"
+msgid "frame"
+msgstr "рамка"
+
+msgctxt "noun 2, -а"
+msgid "frame"
+msgstr "кадр"
+
+msgctxt "noun 3"
+msgid "frame"
+msgstr "панэль"
+
+msgctxt "verb 1, +змяшчаць у рамку"
+msgid "frame"
+msgstr "змясціць у рамку, кадр"
+
+msgctxt "verb 2, +змяшчаць у кадр"
+msgid "frame"
+msgstr "змясціць у кадр"
+
+msgctxt "adjective 1"
+msgid "free"
+msgstr "вольны"
+
+msgctxt "adjective 2"
+msgid "free"
+msgstr "свабодны"
+
+msgctxt "verb 1, +вызваляць"
+msgid "free"
+msgstr "вызваліць"
+
+msgctxt "verb 2, +рабіць даступным"
+msgid "free"
+msgstr "зрабіць даступным"
+
+msgid "frequency"
+msgstr "частата"
+
+msgid "frequent"
+msgstr "часты"
+
+msgid "FTP site"
+msgstr "FTP-пляцоўка"
+
+msgid "full screen"
+msgstr "на ўвесь экран"
+
+msgctxt "noun"
+msgid "function"
+msgstr "функцыя"
+
+msgctxt "verb 1"
+msgid "function"
+msgstr "дзейнічаць"
+
+msgctxt "verb 2"
+msgid "function"
+msgstr "функцыянаваць"
+
+msgid "function key"
+msgstr "функцыянальная клавіша"
+
+msgid "gateway"
+msgstr "сеткавая брама"
+
+msgctxt "adjective 1"
+msgid "general"
+msgstr "агульны"
+
+msgctxt "adjective 2"
+msgid "general"
+msgstr "звычайны"
+
+msgctxt "verb 1, +утвараць"
+msgid "generate"
+msgstr "утварыць"
+
+msgctxt "verb 2, +генераваць"
+msgid "generate"
+msgstr "згенераваць"
+
+msgctxt "noun 1"
+msgid "generation"
+msgstr "пакаленне"
+
+msgctxt "noun 2"
+msgid "generation"
+msgstr "утварэнне"
+
+msgctxt "noun 3"
+msgid "generation"
+msgstr "генерацыя"
+
+msgctxt "noun, -а"
+msgid "generator"
+msgstr "генератар"
+
+msgid "generic"
+msgstr "агульны"
+
+msgctxt "adjective 1"
+msgid "global"
+msgstr "сусветны"
+
+msgctxt "adjective 2"
+msgid "global"
+msgstr "глабальны"
+
+msgctxt "noun 1, -я"
+msgid "glossary"
+msgstr "гласарый"
+
+msgctxt "noun 2"
+msgid "glossary"
+msgstr "слоўніца"
+
+msgid "GNOME Desktop"
+msgstr "Асяроддзе GNOME"
+
+msgctxt "verb, +хапаць"
+msgid "grab"
+msgstr "ухапіць"
+
+msgctxt "noun"
+msgid "group"
+msgstr "група"
+
+msgctxt "verb, +групаваць"
+msgid "group"
+msgstr "згрупаваць"
+
+msgctxt "noun, -а"
+msgid "group box"
+msgstr "групавальны элемент"
+
+msgctxt "noun 1"
+msgid "guide"
+msgstr "інструкцыя"
+
+msgctxt "noun 2, -а"
+msgid "guide"
+msgstr "даведнік"
+
+msgid "guideline"
+msgstr "правіла"
+
+msgctxt "verb 1, +ламаць"
+msgid "hack"
+msgstr "зламаць"
+
+msgctxt "verb 2"
+msgid "hack"
+msgstr "хутка праграмаваць"
+
+msgctxt "noun, -у"
+msgid "hack"
+msgstr "злом"
+
+msgctxt "noun, -а"
+msgid "hacker"
+msgstr "хакер"
+
+msgctxt "verb, +спыняць"
+msgid "halt"
+msgstr "спыніць"
+
+msgctxt "verb, +спыняцца"
+msgid "halt"
+msgstr "спыніцца"
+
+msgctxt "noun 1"
+msgid "halt"
+msgstr "спыненне"
+
+msgctxt "noun 2, -у"
+msgid "halt"
+msgstr "прыпынак"
+
+msgctxt "noun, -а"
+msgid "handle"
+msgstr "дзяржак"
+
+msgctxt "verb 1, +абслугоўваць"
+msgid "handle"
+msgstr "абслужыць"
+
+msgctxt "verb 2, +займацца"
+msgid "handle"
+msgstr "заняцца"
+
+msgctxt "noun, -а"
+msgid "handler"
+msgstr "абслужнік"
+
+msgctxt "verb 1, +вешаць"
+msgid "hang"
+msgstr "павесіць; вісець, павіснуць"
+
+msgctxt "verb 2, +вісець"
+msgid "hang"
+msgstr "павіснуць"
+
+msgctxt "noun, -а"
+msgid "hard disk"
+msgstr "цвёрды дыск"
+
+msgid "hardware"
+msgstr "абсталяванне"
+
+msgctxt "noun 1"
+msgid "help"
+msgstr "даведка"
+
+msgctxt "noun 2"
+msgid "help"
+msgstr "дапамога"
+
+msgctxt "verb, +дапамагаць"
+msgid "help"
+msgstr "дапамагчы"
+
+msgctxt "verb 1, +хаваць"
+msgid "hide"
+msgstr "схаваць; прыхоўваць, прыхаваць"
+
+msgctxt "verb 2, +прыхоўваць"
+msgid "hide"
+msgstr "прыхаваць"
+
+msgid "hide button"
+msgstr "кнопка для прыхоўвання"
+
+msgid "hierarchy"
+msgstr "іерархія"
+
+msgctxt "noun 1, -а"
+msgid "history"
+msgstr "журнал"
+
+msgctxt "noun 2"
+msgid "history"
+msgstr "гісторыя"
+
+msgctxt "noun 1, -а"
+msgid "host"
+msgstr "камп'ютар"
+
+msgctxt "noun 2"
+msgid "host"
+msgstr "машына"
+
+msgctxt "verb 1, +змяшчаць"
+msgid "host"
+msgstr "змясціць; прымаць, прыняць"
+
+msgctxt "verb 2, +прымаць"
+msgid "host"
+msgstr "прыняць"
+
+msgid "hot key"
+msgstr "гарачая клавіша"
+
+msgid "hotfix"
+msgstr "хуткая праўка"
+
+msgctxt "noun, -а"
+msgid "hub"
+msgstr "сеткавы канцэнтратар"
+
+msgid "hyperlink"
+msgstr "сеціўная спасылка"
+
+msgctxt "noun, -а"
+msgid "icon"
+msgstr "значок"
+
+msgctxt "verb, +згортваць да значка"
+msgid "iconify"
+msgstr "згарнуць да значка"
+
+msgid "icon selector button"
+msgstr "кнопка выбару значка"
+
+msgctxt "noun, -у"
+msgid "icon selector dialog"
+msgstr "дыялог выбару значка"
+
+msgctxt "noun, -а"
+msgid "id"
+msgstr "ідэнтыфікатар"
+
+msgctxt "verb, +ігнараваць"
+msgid "ignore"
+msgstr "праігнараваць"
+
+msgid "illegal"
+msgstr "забаронены"
+
+msgid "image"
+msgstr "выява"
+
+msgctxt "adjective 1"
+msgid "implicit"
+msgstr "завочны"
+
+msgctxt "adjective 2"
+msgid "implicit"
+msgstr "няяўны"
+
+msgctxt "verb"
+msgid "import"
+msgstr "імпартаваць"
+
+msgctxt "noun 1"
+msgid "import"
+msgstr "імпарт"
+
+msgctxt "noun 2"
+msgid "import"
+msgstr "імпартаванне"
+
+msgctxt "verb, +удасканальваць"
+msgid "improve"
+msgstr "удасканаліць"
+
+msgid "inactive window"
+msgstr "нядзейнае акно"
+
+msgid "inactivity"
+msgstr "бяздзейнасць"
+
+msgctxt "verb, +улучаць"
+msgid "include"
+msgstr "улучыць"
+
+msgctxt "noun, -а"
+msgid "index"
+msgstr "індэкс"
+
+msgctxt "verb"
+msgid "index"
+msgstr "індэксаваць"
+
+msgctxt "verb 1, +адлюстроўваць"
+msgid "indicate"
+msgstr "адлюстраваць"
+
+msgctxt "verb 2, +паказваць"
+msgid "indicate"
+msgstr "паказаць"
+
+msgctxt "noun, -а"
+msgid "indicator"
+msgstr "індыкатар"
+
+msgid "information"
+msgstr "інфармацыя"
+
+msgid "initial"
+msgstr "пачатковы"
+
+msgid "initialization"
+msgstr "ініцыяцыя"
+
+msgid "initialize"
+msgstr "ініцыяваць"
+
+msgid "in-line"
+msgstr "у радках"
+
+msgid "inline"
+msgstr "у радках"
+
+msgid "inode"
+msgstr "inode"
+
+msgctxt "noun 1"
+msgid "input"
+msgstr "увод"
+
+msgctxt "noun 2"
+msgid "input"
+msgstr "уклад"
+
+msgctxt "noun 3"
+msgid "input"
+msgstr "уваход"
+
+msgctxt "verb 1, +уводзіць"
+msgid "input"
+msgstr "увесці"
+
+msgctxt "verb 2, +рабіць уклад"
+msgid "input"
+msgstr "зрабіць уклад"
+
+msgctxt "verb, +устаўляць"
+msgid "insert"
+msgstr "уставіць"
+
+msgctxt "verb, +усталёўваць"
+msgid "install"
+msgstr "усталяваць"
+
+msgid "installation"
+msgstr "усталяванне"
+
+msgid "installer"
+msgstr "прылада ўсталявання"
+
+msgctxt "adjective 1"
+msgid "instant"
+msgstr "імгненны"
+
+msgctxt "adjective 2"
+msgid "instant"
+msgstr "хуткі"
+
+msgid "instant message"
+msgstr "імгненнае паведамленне"
+
+msgctxt "noun, -у"
+msgid "instant messaging"
+msgstr "абмен імгненнымі паведамленнямі"
+
+msgid "instrument"
+msgstr "прылада"
+
+msgctxt "verb 1"
+msgid "integrate"
+msgstr "інтэграваць"
+
+msgctxt "verb 2"
+msgid "integrate"
+msgstr "інтэгравацца"
+
+msgid "integrity"
+msgstr "цэласць"
+
+msgid "interactive"
+msgstr "інтэрактыўны"
+
+msgctxt "noun, -у"
+msgid "interface"
+msgstr "інтэрфейс"
+
+msgctxt "verb, +спалучаць праз інтэрфейс"
+msgid "interface"
+msgstr "спалучыць праз інтэрфейс"
+
+msgid "internal"
+msgstr "унутраны"
+
+msgctxt "noun, -у"
+msgid "Internet"
+msgstr "Інтэрнэт"
+
+msgid "interpret"
+msgstr "інтэрпрэтаваць"
+
+msgctxt "verb, +перарываць"
+msgid "interrupt"
+msgstr "перарваць"
+
+msgctxt "noun, -а"
+msgid "interrupt"
+msgstr "перарыў"
+
+msgctxt "noun 1, -у"
+msgid "interval"
+msgstr "дыяпазон"
+
+msgctxt "noun 2, -у"
+msgid "interval"
+msgstr "перапынак"
+
+msgctxt "noun 3, -у"
+msgid "interval"
+msgstr "прагал"
+
+msgctxt "noun, -у"
+msgid "intranet"
+msgstr "інтранэт"
+
+msgctxt "adjective 1"
+msgid "invalid"
+msgstr "няправільны"
+
+msgctxt "adjective 2"
+msgid "invalid"
+msgstr "хібны"
+
+msgctxt "adjective 1"
+msgid "inverse"
+msgstr "перакулены"
+
+msgctxt "adjective 2"
+msgid "inverse"
+msgstr "інверсійны"
+
+msgctxt "verb 1, +перакульваць"
+msgid "invert"
+msgstr "перакуліць"
+
+msgctxt "verb 2"
+msgid "invert"
+msgstr "інвертаваць"
+
+msgid "isolate"
+msgstr "ізаляваць"
+
+msgctxt "adjective"
+msgid "italic"
+msgstr "курсіўны"
+
+msgctxt "noun 1, -а"
+msgid "item"
+msgstr "складнік"
+
+msgctxt "noun 2, -а"
+msgid "item"
+msgstr "элемент"
+
+msgid "job"
+msgstr "заданне"
+
+msgctxt "verb 1, +злучаць"
+msgid "join"
+msgstr "злучыць"
+
+msgctxt "verb 2, +далучаць"
+msgid "join"
+msgstr "далучыць"
+
+msgctxt "verb 3, +браць удзел"
+msgid "join"
+msgstr "узяць удзел"
+
+msgctxt "noun 1, -а"
+msgid "key"
+msgstr "ключ"
+
+msgctxt "noun 2"
+msgid "key"
+msgstr "клавіша"
+
+msgctxt "adjective 1"
+msgid "key"
+msgstr "ключавы"
+
+msgctxt "adjective 2"
+msgid "key"
+msgstr "клавішны"
+
+msgid "keyboard"
+msgstr "клавіятура"
+
+msgid "keyboard layout"
+msgstr "раскладка"
+
+msgctxt "noun, -у"
+msgid "keyboard shortcut"
+msgstr "клавіятурны скарот"
+
+msgid "keymap"
+msgstr "карта клавіш"
+
+msgctxt "noun, -у"
+msgid "keypress"
+msgstr "уціск клавішы"
+
+msgctxt "noun, -у"
+msgid "keystroke"
+msgstr "націск клавішы"
+
+msgctxt "verb 1, +сканчаць"
+msgid "kill"
+msgstr "скончыць"
+
+msgctxt "verb 2, +спыняць"
+msgid "kill"
+msgstr "спыніць"
+
+msgctxt "noun 1, -у"
+msgid "label"
+msgstr "надпіс"
+
+msgctxt "noun 2: disk l."
+msgid "label"
+msgstr "назва"
+
+msgctxt "noun 3: goto l."
+msgid "label"
+msgstr "адзнака"
+
+msgctxt "noun 4, -а: =tag"
+msgid "label"
+msgstr "цэтлік"
+
+msgctxt "verb, +чапляць цэтлік"
+msgid "label"
+msgstr "прычапіць цэтлік"
+
+msgctxt "noun, -а"
+msgid "laptop"
+msgstr "ноўтбук"
+
+msgctxt "verb, +запускаць"
+msgid "launch"
+msgstr "запусціць"
+
+msgctxt "noun, -а"
+msgid "launcher"
+msgstr "стартар"
+
+msgctxt "noun, -а"
+msgid "layer"
+msgstr "пласт"
+
+msgctxt "noun 1"
+msgid "layout"
+msgstr "размяшчэнне"
+
+msgctxt "noun 2: keyboard l."
+msgid "layout"
+msgstr "раскладка"
+
+msgid "left-click"
+msgstr "пстрыкнуць левай кнопкай мышы"
+
+msgid "left mouse button"
+msgstr "левая кнопка мышы"
+
+msgctxt "adjective 1"
+msgid "legacy"
+msgstr "стары"
+
+msgctxt "adjective 2"
+msgid "legacy"
+msgstr "састарэлы"
+
+msgctxt "noun, с.р., -ак і -каў"
+msgid "lid"
+msgstr "вечка"
+
+msgctxt "noun, -а"
+msgid "light sensor"
+msgstr "датчык асвятлення"
+
+msgctxt "noun 1"
+msgid "limit"
+msgstr "мяжа"
+
+msgctxt "noun 2"
+msgid "limit"
+msgstr "граніца"
+
+msgctxt "noun 3"
+msgid "limit"
+msgstr "абмежаванне"
+
+msgctxt "verb, +абмяжоўваць"
+msgid "limit"
+msgstr "абмежаваць"
+
+msgctxt "noun 1, -а"
+msgid "line"
+msgstr "радок"
+
+msgctxt "noun 2"
+msgid "line"
+msgstr "лінія"
+
+msgctxt "noun"
+msgid "link"
+msgstr "спасылка"
+
+msgctxt "verb 1, +спасылацца"
+msgid "link"
+msgstr "спаслацца"
+
+msgctxt "verb 2, +злучаць"
+msgid "link"
+msgstr "злучыць"
+
+msgid "linkage"
+msgstr "злучэнне"
+
+msgctxt "noun, -а"
+msgid "list"
+msgstr "спіс"
+
+msgctxt "verb 1, +паказваць"
+msgid "list"
+msgstr "паказаць"
+
+msgctxt "verb 2, +пералічваць"
+msgid "list"
+msgstr "пералічыць"
+
+msgid "list box"
+msgstr "графа са спісам"
+
+msgctxt "verb 1"
+msgid "listen"
+msgstr "слухаць"
+
+msgctxt "verb 2, +прыслухоўвацца"
+msgid "listen"
+msgstr "прыслухацца"
+
+msgctxt "noun"
+msgid "listen"
+msgstr "слуханне"
+
+msgctxt "noun, -а"
+msgid "listener"
+msgstr "слухач"
+
+msgctxt "verb, +загружаць"
+msgid "load"
+msgstr "загрузіць"
+
+msgid "local"
+msgstr "мясцовы"
+
+msgid "locale"
+msgstr "мясцовасць"
+
+msgid "localization"
+msgstr "лакалізацыя"
+
+msgid "localize"
+msgstr "лакалізаваць"
+
+msgctxt "verb, +шукаць"
+msgid "locate"
+msgstr "знайсці"
+
+msgctxt "noun 1, -у"
+msgid "location"
+msgstr "пошук"
+
+msgctxt "noun 2"
+msgid "location"
+msgstr "месца"
+
+msgid "location bar"
+msgstr "паліца адрасу"
+
+msgctxt "verb 1, +замыкаць"
+msgid "lock"
+msgstr "замкнуць"
+
+msgctxt "verb 2, +знерухомліваць"
+msgid "lock"
+msgstr "знерухоміць"
+
+msgctxt "verb 3, +знявольваць"
+msgid "lock"
+msgstr "зняволіць"
+
+msgctxt "noun, -а"
+msgid "lock"
+msgstr "замок"
+
+msgctxt "noun, -а"
+msgid "log"
+msgstr "журнал"
+
+msgctxt "verb, +запісваць у журнале"
+msgid "log"
+msgstr "запісаць у журнале"
+
+msgctxt "verb 1, +уваходзіць"
+msgid "log in"
+msgstr "увайсці"
+
+msgctxt "verb 2, +пачынаць сеанс"
+msgid "log in"
+msgstr "пачаць сеанс"
+
+msgctxt "noun, -у"
+msgid "login"
+msgstr "уваход"
+
+msgctxt "adjective"
+msgid "login"
+msgstr "уваходны"
+
+msgctxt "verb 1, +уваходзіць"
+msgid "login"
+msgstr "увайсці"
+
+msgctxt "verb 2, +пачынаць сеанс"
+msgid "login"
+msgstr "пачаць сеанс"
+
+msgctxt "verb 1, +выходзіць"
+msgid "log out"
+msgstr "выйсці"
+
+msgctxt "verb 2, +сканчаць сеанс"
+msgid "log out"
+msgstr "скончыць сеанс"
+
+msgctxt "noun, -у"
+msgid "logout"
+msgstr "выхад"
+
+msgctxt "adjective"
+msgid "logout"
+msgstr "выхадны"
+
+msgctxt "verb 1, +выходзіць"
+msgid "logout"
+msgstr "выйсці"
+
+msgctxt "verb 2, +сканчаць сеанс"
+msgid "logout"
+msgstr "скончыць сеанс"
+
+msgid "look-and-feel"
+msgstr "канфігурацыя інтэрфейсу"
+
+msgctxt "verb 1, +прыцішаць, +прыцішваць"
+msgid "lower volume"
+msgstr "прыцішыць"
+
+msgctxt "verb 2, +памяншаць гучнасць"
+msgid "lower volume"
+msgstr "паменшыць гучнасць"
+
+msgctxt "verb, +павялічваць"
+msgid "magnify"
+msgstr "павялічыць"
+
+msgctxt "adjective 1"
+msgid "main"
+msgstr "галоўны"
+
+msgctxt "adjective 2"
+msgid "main"
+msgstr "асноўны"
+
+msgctxt "noun"
+msgid "mail"
+msgstr "пошта"
+
+msgctxt "verb, +прысылаць поштай"
+msgid "mail"
+msgstr "прыслаць поштай"
+
+msgid "mailbox"
+msgstr "паштовая скрыня"
+
+msgid "maintain"
+msgstr "даглядаць"
+
+msgctxt "noun, -а"
+msgid "maintainer"
+msgstr "даглядчык"
+
+msgid "malicious"
+msgstr "шкодніцкі"
+
+msgctxt "noun 1"
+msgid "malware"
+msgstr "шкодніцкая праграма"
+
+msgctxt "noun 2"
+msgid "malware"
+msgstr "шкодніцкае апраграмаванне"
+
+msgctxt "noun 1, -а"
+msgid "manager"
+msgstr "кіраўнік"
+
+msgctxt "noun 2, -а"
+msgid "manager"
+msgstr "менеджар"
+
+msgid "man page"
+msgstr "man-старонка"
+
+msgctxt "adjective"
+msgid "manual"
+msgstr "ручны"
+
+msgctxt "noun 1, -а"
+msgid "manual"
+msgstr "даведнік"
+
+msgctxt "noun 2"
+msgid "manual"
+msgstr "інструкцыя"
+
+msgid "manufacturer"
+msgstr "вытворца"
+
+msgctxt "noun 1"
+msgid "margin"
+msgstr "поле"
+
+msgctxt "noun 2, -а"
+msgid "margin"
+msgstr "бераг"
+
+msgid "marker"
+msgstr "адзнака"
+
+msgctxt "noun"
+msgid "master"
+msgstr "галоўная машына"
+
+msgctxt "adjective"
+msgid "master"
+msgstr "галоўны"
+
+msgctxt "noun, -а"
+msgid "match"
+msgstr "адпаведнік"
+
+msgctxt "verb"
+msgid "match"
+msgstr "адпавядаць"
+
+msgctxt "verb, +разгортваць"
+msgid "maximize"
+msgstr "разгарнуць"
+
+msgctxt "noun 1, -а"
+msgid "medium"
+msgstr "носьбіт"
+
+msgctxt "noun 2"
+msgid "medium"
+msgstr "медыя"
+
+msgctxt "noun 3"
+msgid "medium"
+msgstr "сярэдзіна"
+
+msgid "memory"
+msgstr "памяць"
+
+msgid "menubar"
+msgstr "стужка меню"
+
+msgctxt "noun, -а"
+msgid "menu item"
+msgstr "пункт меню"
+
+msgctxt "noun, -а"
+msgid "messenger"
+msgstr "камунікатар"
+
+msgid "metadata"
+msgstr "метаданыя"
+
+msgid "meta key"
+msgstr "Meta-клавіша"
+
+msgctxt "noun, -у"
+msgid "method"
+msgstr "метад"
+
+msgid "middle-click and hold"
+msgstr "утрымліваць сярэднюю пстрычку"
+
+msgid "middle-click"
+msgstr "пстрыкнуць сярэдняй кнопкай мышы"
+
+msgid "middle mouse button"
+msgstr "сярэдняя кнопка мышы"
+
+msgctxt "noun, -у"
+msgid "MIME type"
+msgstr "MIME-тып"
+
+msgctxt "verb, +прыхоўваць"
+msgid "minimize"
+msgstr "прыхаваць"
+
+msgid "missing"
+msgstr "адсутны"
+
+msgctxt "noun 1, -у"
+msgid "mode"
+msgstr "рэжым"
+
+msgctxt "noun 2, -у"
+msgid "mode"
+msgstr "спосаб"
+
+msgctxt "noun, -а"
+msgid "modem"
+msgstr "мадэм"
+
+msgid "modifier key"
+msgstr "клавіша-мадыфікатар"
+
+msgid "modify"
+msgstr "мадыфікаваць"
+
+msgctxt "noun, -я"
+msgid "module"
+msgstr "модуль"
+
+msgctxt "noun 1, -а"
+msgid "monitor"
+msgstr "назіральнік"
+
+msgctxt "noun 2, -а"
+msgid "monitor"
+msgstr "манітор"
+
+msgctxt "verb"
+msgid "monitor"
+msgstr "назіраць"
+
+msgid "monospace"
+msgstr "роўнашырокі"
+
+msgid "motherboard"
+msgstr "галоўная плата"
+
+msgctxt "verb, +прымацоўваць"
+msgid "mount"
+msgstr "прымацаваць"
+
+msgctxt "noun, -а"
+msgid "mount point"
+msgstr "пункт мацавання"
+
+msgid "mouse"
+msgstr "мыш"
+
+msgid "mouse key"
+msgstr "мышыная клавіша"
+
+msgid "mouse wheel"
+msgstr "колца"
+
+msgctxt "verb, +перамяшчаць"
+msgid "move"
+msgstr "перамясціць"
+
+msgctxt "noun 1, -у: game m."
+msgid "move"
+msgstr "ход"
+
+msgctxt "noun 2"
+msgid "move"
+msgstr "перамяшчэнне"
+
+msgid "multimedia"
+msgstr "мультымедыі"
+
+msgctxt "verb, +спраўляцца з некалькімі адначасовымі задачамі"
+msgid "multitask"
+msgstr "справіцца з некалькімі адначасовымі задачамі"
+
+msgid "multitasking"
+msgstr "шматзадачнасць"
+
+msgctxt "verb, +абязгучваць"
+msgid "mute"
+msgstr "абязгучыць"
+
+msgctxt "adjective 1"
+msgid "mute"
+msgstr "бязгучны"
+
+msgctxt "adjective 2"
+msgid "mute"
+msgstr "ціхі"
+
+msgid "muted"
+msgstr "абязгучаны"
+
+msgctxt "noun 1: user n."
+msgid "name"
+msgstr "імя"
+
+msgctxt "noun 2: file n."
+msgid "name"
+msgstr "назва"
+
+msgctxt "verb, +называць"
+msgid "name"
+msgstr "назваць"
+
+msgid "namespace"
+msgstr "прастора назваў"
+
+msgid "native viewport"
+msgstr "базавая прастора прагляду"
+
+msgid "native workspace"
+msgstr "базавая прастора працы"
+
+msgctxt "verb, +аглядаць"
+msgid "navigate"
+msgstr "аглядзець"
+
+msgctxt "verb 1, +укладаць"
+msgid "nest"
+msgstr "укласці"
+
+msgctxt "verb 2, +укладаць глыбей"
+msgid "nest"
+msgstr "укласці глыбей"
+
+msgctxt "noun, -а"
+msgid "netbook"
+msgstr "нэтбук"
+
+msgid "netmask"
+msgstr "сеткавая маска"
+
+msgctxt "noun"
+msgid "network"
+msgstr "сетка"
+
+msgctxt "adjective"
+msgid "network"
+msgstr "сеткавы"
+
+msgctxt "noun, моста, -оў"
+msgid "network bridge"
+msgstr "сеткавы мост"
+
+msgid "network gateway"
+msgstr "сеткавая брама"
+
+msgctxt "noun, -а"
+msgid "network hub"
+msgstr "сеткавы канцэнтратар"
+
+msgid "network mask"
+msgstr "сеткавая маска"
+
+msgctxt "noun, -у"
+msgid "network route"
+msgstr "сеткавы маршрут"
+
+msgctxt "noun, -а"
+msgid "network router"
+msgstr "сеткавы маршрутызатар"
+
+msgctxt "noun, -а"
+msgid "network switch"
+msgstr "сеткавы камутатар"
+
+msgid "nickname"
+msgstr "мянушка"
+
+msgctxt "noun, -а"
+msgid "node"
+msgstr "вузел"
+
+msgctxt "noun 1, -а"
+msgid "notebook"
+msgstr "нататнік"
+
+msgctxt "noun 2, -а"
+msgid "notebook"
+msgstr "ноўтбук"
+
+msgctxt "verb, +заўважаць"
+msgid "notice"
+msgstr "заўважыць"
+
+msgctxt "noun 1"
+msgid "notice"
+msgstr "апавяшчэнне"
+
+msgctxt "noun 2"
+msgid "notice"
+msgstr "перасцярога"
+
+msgctxt "noun 3"
+msgid "notice"
+msgstr "паведамленне"
+
+msgctxt "verb 1, +апавяшчаць"
+msgid "notify"
+msgstr "апавясціць"
+
+msgctxt "verb 2, +паведамляць"
+msgid "notify"
+msgstr "паведаміць"
+
+msgid "numpad"
+msgstr "лічбавая панэль"
+
+msgctxt "noun, -а"
+msgid "object"
+msgstr "аб'ект"
+
+msgctxt "adjective"
+msgid "offline"
+msgstr "пазасеткавы"
+
+msgctxt "adverb"
+msgid "offline"
+msgstr "па-за сеткай"
+
+msgctxt "adjective"
+msgid "online"
+msgstr "сеткавы"
+
+msgctxt "adverb"
+msgid "online"
+msgstr "у сетцы"
+
+msgid "onscreen"
+msgstr "экранны"
+
+msgctxt "verb 1, +адчыняць: file, folder, window"
+msgid "open"
+msgstr "адчыніць"
+
+msgctxt "verb 2, +адкрываць: =unhide"
+msgid "open"
+msgstr "адкрыць"
+
+msgid "operation"
+msgstr "аперацыя"
+
+msgctxt "noun 1"
+msgid "option"
+msgstr "опцыя"
+
+msgctxt "noun 2, -у"
+msgid "option"
+msgstr "выбар"
+
+msgid "optional"
+msgstr "неабавязковы"
+
+msgctxt "noun 1, -у"
+msgid "order"
+msgstr "парадак"
+
+msgctxt "noun 2, -у"
+msgid "order"
+msgstr "загад"
+
+msgctxt "verb 1, +упарадкоўваць"
+msgid "order"
+msgstr "упарадкаваць"
+
+msgctxt "verb 2, +загадваць"
+msgid "order"
+msgstr "загадаць"
+
+msgid "orientation"
+msgstr "арыентацыя"
+
+msgctxt "adjective"
+msgid "original"
+msgstr "арыгінальны"
+
+msgctxt "noun 1, -а"
+msgid "original"
+msgstr "арыгінал"
+
+msgctxt "noun 2"
+msgid "original"
+msgstr "мова арыгінала"
+
+msgid "out of range"
+msgstr "не ў прамежку"
+
+msgctxt "noun 1, -у"
+msgid "output"
+msgstr "вывад"
+
+msgctxt "noun 2, -у"
+msgid "output"
+msgstr "выхад"
+
+msgctxt "verb, +выводзіць"
+msgid "output"
+msgstr "вывесці"
+
+msgctxt "verb, +перапаўняць"
+msgid "overflow"
+msgstr "перапоўніць"
+
+msgctxt "noun"
+msgid "overflow"
+msgstr "перапаўненне"
+
+msgctxt "verb, +часткова засланяць"
+msgid "overlap"
+msgstr "часткова засланіць"
+
+msgctxt "noun 1"
+msgid "overlap"
+msgstr "засланенне"
+
+msgctxt "noun 2"
+msgid "overlap"
+msgstr "заслоненая частка"
+
+msgctxt "verb, +засланяць"
+msgid "override"
+msgstr "засланіць"
+
+msgctxt "verb, +перапісваць"
+msgid "overwrite"
+msgstr "перапісаць"
+
+msgctxt "noun 1, -а"
+msgid "package"
+msgstr "пакунак"
+
+msgctxt "noun 2, -а"
+msgid "package"
+msgstr "пакет"
+
+msgctxt "noun, -а"
+msgid "packet"
+msgstr "пакет"
+
+msgctxt "noun 1"
+msgid "page"
+msgstr "старонка"
+
+msgctxt "noun 2, -а, -аў"
+msgid "page"
+msgstr "аркуш"
+
+msgctxt "verb, +падзяляць на старонкі"
+msgid "page"
+msgstr "падзяліць на старонкі"
+
+msgctxt "noun, -у"
+msgid "pane"
+msgstr "абшар у акне"
+
+msgid "panel"
+msgstr "панэль"
+
+msgctxt "noun, -а"
+msgid "panel object"
+msgstr "аб'ект на панэлі"
+
+msgctxt "noun, -а"
+msgid "parameter"
+msgstr "параметр"
+
+msgctxt "verb, +разбіраць"
+msgid "parse"
+msgstr "разабраць"
+
+msgctxt "noun 1, -а: disk p."
+msgid "partition"
+msgstr "раздзел"
+
+msgctxt "noun 2, -у"
+msgid "partition"
+msgstr "падзел"
+
+msgctxt "verb, +дзяліць"
+msgid "partition"
+msgstr "падзяліць"
+
+msgid "passphrase"
+msgstr "парольная фраза"
+
+msgctxt "noun, -я"
+msgid "password"
+msgstr "пароль"
+
+msgctxt "verb, +уклейваць"
+msgid "paste"
+msgstr "уклеіць"
+
+msgctxt "verb, +латаць"
+msgid "patch"
+msgstr "залатаць"
+
+msgctxt "noun"
+msgid "patch"
+msgstr "латка"
+
+msgid "path"
+msgstr "сцежка"
+
+msgctxt "noun 1, -у"
+msgid "pattern"
+msgstr "узор"
+
+msgctxt "noun 2, -у"
+msgid "pattern"
+msgstr "шаблон"
+
+msgid "pattern mask"
+msgstr "узорная маска"
+
+msgctxt "noun 1, -у"
+msgid "pause"
+msgstr "перапынак"
+
+msgctxt "noun 2"
+msgid "pause"
+msgstr "паўза"
+
+msgctxt "verb, +прыпыняць"
+msgid "pause"
+msgstr "прыпыніць"
+
+msgctxt "noun, -у"
+msgid "payload"
+msgstr "карысны груз"
+
+msgid "pending"
+msgstr "у чаканні"
+
+msgid "performance"
+msgstr "прадукцыйнасць"
+
+msgctxt "adjective"
+msgid "peripheral"
+msgstr "перыферыйны"
+
+msgctxt "noun"
+msgid "peripheral"
+msgstr "перыферыйнае прыстасаванне"
+
+msgctxt "noun, -у"
+msgid "permission"
+msgstr "дазвол"
+
+msgid "persistent window group"
+msgstr "група пастаянных вокнаў"
+
+msgid "personal"
+msgstr "асабісты"
+
+msgctxt "noun 1"
+msgid "picture"
+msgstr "выява"
+
+msgctxt "noun 2: television i."
+msgid "picture"
+msgstr "карцінка"
+
+msgctxt "noun, -а"
+msgid "pixel"
+msgstr "піксел"
+
+msgid "pixmap"
+msgstr "растравая выява"
+
+msgctxt "noun, -а"
+msgid "placeholder"
+msgstr "заступнік"
+
+msgctxt "noun, -а"
+msgid "plug-in"
+msgstr "плугін"
+
+msgctxt "noun, -а"
+msgid "pointer"
+msgstr "паказальнік"
+
+msgctxt "verb, +паказваць"
+msgid "point"
+msgstr "паказаць"
+
+msgctxt "adjective"
+msgid "pop-up"
+msgstr "выплыўны"
+
+msgctxt "noun 1"
+msgid "pop-up"
+msgstr "выплыўное меню"
+
+msgctxt "noun 2"
+msgid "pop-up"
+msgstr "выплыўное акенца"
+
+msgctxt "adjective"
+msgid "popup"
+msgstr "выплыўны"
+
+msgctxt "noun 1"
+msgid "popup"
+msgstr "выплыўное меню"
+
+msgctxt "noun 2"
+msgid "popup"
+msgstr "выплыўное акенца"
+
+msgctxt "noun, -а"
+msgid "port"
+msgstr "порт"
+
+msgctxt "verb, +пераносіць"
+msgid "port"
+msgstr "перанесці"
+
+msgctxt "noun 1"
+msgid "power"
+msgstr "энергія"
+
+msgctxt "noun 2"
+msgid "power"
+msgstr "сілкаванне"
+
+msgid "power battery"
+msgstr "батарэя сілкавання"
+
+msgctxt "noun, -у, -оў"
+msgid "power cord"
+msgstr "провад сілкавання"
+
+msgid "predefined"
+msgstr "прадвызначаны"
+
+msgctxt "verb, +аддаваць перавагу"
+msgid "prefer"
+msgstr "аддаць перавагу"
+
+msgid "preference"
+msgstr "настройка"
+
+msgid "preference tool"
+msgstr "прылада настройкі"
+
+msgid "prefix"
+msgstr "прыстаўка"
+
+msgctxt "verb, +падстройваць перад ужыткам"
+msgid "preset"
+msgstr "падстроіць перад ужыткам"
+
+msgctxt "noun"
+msgid "preset"
+msgstr "пачатковая настройка"
+
+msgctxt "verb, +націскаць"
+msgid "press"
+msgstr "націснуць"
+
+msgid "press-and-hold"
+msgstr "утрымліваць клавішу"
+
+msgid "pressed in"
+msgstr "уціснуты"
+
+msgid "pressed-in"
+msgstr "уціснуты"
+
+msgctxt "verb, +папярэдне аглядаць"
+msgid "preview"
+msgstr "папярэдне аглядзець"
+
+msgctxt "noun, -у"
+msgid "preview"
+msgstr "папярэдні агляд"
+
+msgctxt "verb, +друкаваць, =аддрукаваць"
+msgid "print"
+msgstr "надрукаваць"
+
+msgctxt "noun, -а"
+msgid "printer"
+msgstr "прынтар"
+
+msgctxt "noun, -у"
+msgid "priority"
+msgstr "прыярытэт"
+
+msgid "privacy"
+msgstr "прыватнасць"
+
+msgctxt "adjective 1"
+msgid "private"
+msgstr "асабісты"
+
+msgctxt "adjective 2"
+msgid "private"
+msgstr "прыватны"
+
+msgctxt "noun, -а"
+msgid "private key"
+msgstr "закрыты ключ"
+
+msgctxt "noun, -я"
+msgid "privilege"
+msgstr "прывілей"
+
+msgctxt "noun, -у"
+msgid "process"
+msgstr "працэс"
+
+msgctxt "verb 1, +выконваць"
+msgid "process"
+msgstr "выканаць"
+
+msgctxt "verb 2, +апрацоўваць"
+msgid "process"
+msgstr "апрацаваць"
+
+msgctxt "noun 1, -а"
+msgid "processor"
+msgstr "працэсар"
+
+msgctxt "noun 2"
+msgid "processor"
+msgstr "выканаўца"
+
+msgctxt "verb 1, +развіваць"
+msgid "progress"
+msgstr "развіць; рушыць наперад"
+
+msgctxt "verb 2"
+msgid "progress"
+msgstr "рушыць наперад"
+
+msgctxt "noun 1"
+msgid "progress"
+msgstr "развіццё"
+
+msgctxt "noun 2, -у"
+msgid "progress"
+msgstr "прагрэс"
+
+msgctxt "noun"
+msgid "program"
+msgstr "праграма"
+
+msgctxt "verb, +праграмаваць"
+msgid "program"
+msgstr "запраграмаваць"
+
+msgctxt "noun, -а"
+msgid "programmer"
+msgstr "праграміст"
+
+msgctxt "noun, -а"
+msgid "project"
+msgstr "праект"
+
+msgctxt "verb, +патрабаваць"
+msgid "prompt"
+msgstr "запатрабаваць"
+
+msgid "proportional"
+msgstr "сумерны"
+
+msgid "property"
+msgstr "уласцівасць"
+
+msgctxt "verb, +бараніць"
+msgid "protect"
+msgstr "абараніць"
+
+msgctxt "noun, -а"
+msgid "protocol"
+msgstr "пратакол"
+
+msgctxt "noun, -а"
+msgid "provider"
+msgstr "правайдар"
+
+msgctxt "noun, -а"
+msgid "public key"
+msgstr "адкрыты ключ"
+
+msgctxt "verb, +публікаваць"
+msgid "publish"
+msgstr "апублікаваць"
+
+msgctxt "verb, +вычышчаць"
+msgid "purge"
+msgstr "вычысціць"
+
+msgctxt "verb, +выходзіць"
+msgid "quit"
+msgstr "выйсці"
+
+msgctxt "noun 1"
+msgid "quota"
+msgstr "квота"
+
+msgctxt "noun 2, -у"
+msgid "quota"
+msgstr "надзел"
+
+msgid "radio button"
+msgstr "кнопка выбару"
+
+msgctxt "verb, +узнімаць, +уздымаць"
+msgid "raise"
+msgstr "узняць"
+
+msgctxt "verb, +павялічваць гучнасць"
+msgid "raise volume"
+msgstr "павялічыць гучнасць"
+
+msgctxt "adjective 1"
+msgid "random"
+msgstr "выпадковы"
+
+msgctxt "adjective 2"
+msgid "random"
+msgstr "адвольны"
+
+msgctxt "noun, -у"
+msgid "random access"
+msgstr "адвольны доступ"
+
+msgctxt "noun, -у"
+msgid "range"
+msgstr "дыяпазон"
+
+msgctxt "adjective"
+msgid "raster"
+msgstr "растравы"
+
+msgctxt "noun"
+msgid "raster"
+msgstr "растра"
+
+msgid "raw data"
+msgstr "сырыя даныя"
+
+msgctxt "verb, +чытаць"
+msgid "read"
+msgstr "прачытаць"
+
+msgid "readable"
+msgstr "чытальны"
+
+msgctxt "noun, -а"
+msgid "reader"
+msgstr "чытач"
+
+msgid "read-only"
+msgstr "даступны толькі для чытання"
+
+msgctxt "verb, +атрымліваць"
+msgid "receive"
+msgstr "атрымаць"
+
+msgid "recent"
+msgstr "нядаўні"
+
+msgctxt "noun, -а"
+msgid "recipient"
+msgstr "атрымальнік"
+
+msgctxt "verb, +пазнаваць"
+msgid "recognize"
+msgstr "пазнаць"
+
+msgctxt "verb 1, +перазлучаць"
+msgid "reconnect"
+msgstr "перазлучыць"
+
+msgctxt "verb 2, +перазлучацца"
+msgid "reconnect"
+msgstr "перазлучыцца"
+
+msgctxt "noun, -у"
+msgid "record"
+msgstr "запіс"
+
+msgctxt "verb, +запісваць"
+msgid "record"
+msgstr "запісаць"
+
+msgctxt "verb, +аднаўляць"
+msgid "recover"
+msgstr "аднавіць"
+
+msgid "recursion"
+msgstr "рэкурсія"
+
+msgid "recursive"
+msgstr "рэкурсіўны"
+
+msgid "recycle bin"
+msgstr "сметніца"
+
+msgctxt "verb, +паўтараць скасаванае"
+msgid "redo"
+msgstr "паўтарыць скасаванае"
+
+msgctxt "verb, +адсылаць"
+msgid "refer"
+msgstr "адаслаць"
+
+msgid "reference"
+msgstr "адсылка"
+
+msgctxt "verb, +абнаўляць"
+msgid "refresh"
+msgstr "абнавіць"
+
+msgctxt "verb 1, +рэгістраваць"
+msgid "register"
+msgstr "зарэгістраваць"
+
+msgctxt "verb 2, +рэгістравацца"
+msgid "register"
+msgstr "зарэгістравацца"
+
+msgctxt "noun 1, -а"
+msgid "registry"
+msgstr "рэестр"
+
+msgctxt "noun 2"
+msgid "registry"
+msgstr "рэгістрацыя"
+
+msgctxt "noun, -у"
+msgid "regular expression"
+msgstr "рэгулярны выраз"
+
+msgctxt "verb, +пераўсталёўваць"
+msgid "reinstall"
+msgstr "пераўсталяваць"
+
+msgctxt "noun 1, -а"
+msgid "relay"
+msgstr "рэтранслятар"
+
+msgctxt "noun 2"
+msgid "relay"
+msgstr "рэле"
+
+msgctxt "verb"
+msgid "relay"
+msgstr "рэтрансляваць"
+
+msgctxt "verb 1, +вызваляць"
+msgid "release"
+msgstr "вызваліць"
+
+msgctxt "verb 2, +выдаваць"
+msgid "release"
+msgstr "выдаць"
+
+msgctxt "noun 1"
+msgid "release"
+msgstr "вызваленне"
+
+msgctxt "noun 2"
+msgid "release"
+msgstr "выданне"
+
+msgctxt "verb, +перазагружаць"
+msgid "reload"
+msgstr "перазагрузіць"
+
+msgctxt "verb, +перамяшчаць"
+msgid "relocate"
+msgstr "перамясціць"
+
+msgid "remote"
+msgstr "аддалены"
+
+msgctxt "verb, +выдаляць"
+msgid "remove"
+msgstr "выдаліць"
+
+msgctxt "verb, +пераназываць"
+msgid "rename"
+msgstr "пераназваць"
+
+msgctxt "verb, +пераадчыняць"
+msgid "reopen"
+msgstr "пераадчыніць"
+
+msgctxt "verb, +пераўпарадкоўваць"
+msgid "reorder"
+msgstr "пераўпарадкаваць"
+
+msgctxt "verb, +напраўляць"
+msgid "repair"
+msgstr "направіць"
+
+msgctxt "verb, +паўтараць"
+msgid "repeat"
+msgstr "паўтарыць"
+
+msgctxt "noun, -а"
+msgid "repeater"
+msgstr "паўтаральнік"
+
+msgid "repeat key"
+msgstr "паўторавая клавіша"
+
+msgctxt "verb, +замяняць"
+msgid "replace"
+msgstr "замяніць"
+
+msgctxt "verb, +ствараць дублікат"
+msgid "replicate"
+msgstr "стварыць дублікат"
+
+msgctxt "noun, -у"
+msgid "reply-to address"
+msgstr "зваротны адрас"
+
+msgctxt "verb 1, +даваць справаздачу"
+msgid "report"
+msgstr "даць справаздачу"
+
+msgctxt "verb 2, +заяўляць: r. bug"
+msgid "report"
+msgstr "заявіць"
+
+msgctxt "noun 1"
+msgid "report"
+msgstr "справаздача"
+
+msgctxt "noun 2, -а"
+msgid "report"
+msgstr "рапарт"
+
+msgctxt "noun 3"
+msgid "report"
+msgstr "заява"
+
+msgid "repository"
+msgstr "сховішча"
+
+msgctxt "verb, +паўтараць"
+msgid "reproduce"
+msgstr "паўтарыць"
+
+msgctxt "verb, +патрабаваць"
+msgid "require"
+msgstr "запатрабаваць"
+
+msgctxt "verb 1, +займаць"
+msgid "reserve"
+msgstr "заняць"
+
+msgctxt "verb 2, +запасаць"
+msgid "reserve"
+msgstr "запасці"
+
+msgctxt "verb, +перанастройваць"
+msgid "reset"
+msgstr "перанастроіць"
+
+msgctxt "noun 1: screen r."
+msgid "resolution"
+msgstr "распазнавальнасць"
+
+msgctxt "noun 2"
+msgid "resolution"
+msgstr "развязанне"
+
+msgctxt "noun 3"
+msgid "resolution"
+msgstr "распазнаванне"
+
+msgctxt "verb, +перазапускаць"
+msgid "restart"
+msgstr "перазапусціць"
+
+msgid "restorable"
+msgstr "аднаўляльны"
+
+msgid "restoration"
+msgstr "аднаўленне"
+
+msgctxt "verb, +аднаўляць"
+msgid "restore"
+msgstr "аднавіць"
+
+msgctxt "verb, +узнаўляць"
+msgid "resume"
+msgstr "узнавіць"
+
+msgid "retry"
+msgstr "паўтарыць спробу"
+
+msgctxt "verb, +вяртаць"
+msgid "return"
+msgstr "вярнуць"
+
+msgctxt "verb, +адрабляць"
+msgid "revert"
+msgstr "адрабіць"
+
+msgctxt "verb, +адкручваць"
+msgid "rewind"
+msgstr "адкруціць"
+
+msgid "right-click"
+msgstr "пстрыкнуць правай кнопкай мышы"
+
+msgid "right mouse button"
+msgstr "правая кнопка мышы"
+
+msgctxt "verb, +раскручваць"
+msgid "roll down"
+msgstr "раскруціць"
+
+msgctxt "verb, +скручваць"
+msgid "roll up"
+msgstr "скруціць"
+
+msgctxt "noun, -а"
+msgid "root directory"
+msgstr "каранёвы каталог"
+
+msgid "root file system"
+msgstr "каранёвая файлавая сістэма"
+
+msgid "root folder"
+msgstr "каранёвая папка"
+
+msgctxt "noun, -я"
+msgid "root password"
+msgstr "пароль карыстальніка root"
+
+msgid "root privileges"
+msgstr "прывілеі карыстальніка root"
+
+msgctxt "noun, -а"
+msgid "root user"
+msgstr "карыстальнік root"
+
+msgctxt "noun, -у"
+msgid "route"
+msgstr "сеткавы маршрут"
+
+msgctxt "verb 1, +весці маршрутам"
+msgid "route"
+msgstr "правесці маршрутам"
+
+msgctxt "verb 2, +скіроўваць"
+msgid "route"
+msgstr "скіраваць"
+
+msgctxt "noun, -а"
+msgid "router"
+msgstr "сеткавы маршрутызатар"
+
+msgctxt "verb, +запускаць"
+msgid "run"
+msgstr "запусціць"
+
+msgctxt "noun, -ю"
+msgid "runlevel"
+msgstr "узровень функцыянавання сістэмы"
+
+msgctxt "noun, -у"
+msgid "sample"
+msgstr "узор"
+
+msgid "sandbox"
+msgstr "пясочніца"
+
+msgid "sans serif"
+msgstr "з засечкамі"
+
+msgctxt "verb, +запісваць: =write"
+msgid "save"
+msgstr "запісаць"
+
+msgctxt "verb, +захоўваць: =store"
+msgid "save"
+msgstr "захаваць"
+
+msgctxt "noun"
+msgid "save"
+msgstr "захаванне"
+
+msgctxt "noun 1"
+msgid "scale"
+msgstr "шкала"
+
+msgctxt "noun 2, -у"
+msgid "scale"
+msgstr "маштаб"
+
+msgctxt "verb"
+msgid "scale"
+msgstr "маштабаваць"
+
+msgctxt "verb 1, +сканаваць"
+msgid "scan"
+msgstr "сасканаваць"
+
+msgctxt "verb 2, +праглядаць, =прагледзець"
+msgid "scan"
+msgstr "праглядзець"
+
+msgctxt "noun 1"
+msgid "scan"
+msgstr "сканаванне"
+
+msgctxt "noun 2, -у"
+msgid "scan"
+msgstr "прагляд"
+
+msgctxt "noun 3"
+msgid "scan"
+msgstr "сасканаваная выява"
+
+msgctxt "noun, -а"
+msgid "scanner"
+msgstr "сканер"
+
+msgctxt "noun, -а"
+msgid "screen"
+msgstr "экран"
+
+msgctxt "noun, -а"
+msgid "screensaver"
+msgstr "ахоўнік экрана"
+
+msgid "screensaver display"
+msgstr "заслона экрана"
+
+msgctxt "noun, -а"
+msgid "screenshot"
+msgstr "экранны здымак"
+
+msgid "scroll"
+msgstr "?"
+
+msgid "scrolling"
+msgstr "?"
+
+msgid "scrollbar"
+msgstr "?"
+
+msgctxt "noun, -у"
+msgid "search"
+msgstr "пошук"
+
+msgctxt "verb, +шукаць"
+msgid "search"
+msgstr "знайсці"
+
+msgid "searchbar"
+msgstr "паліца пошуку"
+
+msgctxt "noun, -а"
+msgid "search engine"
+msgstr "пошукавы рухавік"
+
+msgid "secure"
+msgstr "бяспечны"
+
+msgctxt "noun, -а"
+msgid "segment"
+msgstr "сегмент"
+
+msgctxt "verb 1, +вылучаць"
+msgid "select"
+msgstr "вылучыць"
+
+msgctxt "verb 2, +абіраць"
+msgid "select"
+msgstr "абраць"
+
+msgctxt "verb 3, +выбіраць"
+msgid "select"
+msgstr "выбраць"
+
+msgctxt "adjective 1"
+msgid "selected"
+msgstr "вылучаны"
+
+msgctxt "adjective 2"
+msgid "selected"
+msgstr "абраны"
+
+msgctxt "adjective 3"
+msgid "selected"
+msgstr "выбраны"
+
+msgctxt "verb, +слаць"
+msgid "send"
+msgstr "прыслаць"
+
+msgid "sender"
+msgstr "адпраўнік"
+
+msgid "serif"
+msgstr "без засечак"
+
+msgctxt "noun, -а"
+msgid "server"
+msgstr "сервер"
+
+msgctxt "adjective"
+msgid "server"
+msgstr "серверны"
+
+msgctxt "noun 1: system s."
+msgid "service"
+msgstr "служба"
+
+msgctxt "noun 2: to provide s."
+msgid "service"
+msgstr "паслуга"
+
+msgctxt "noun 1, -а"
+msgid "session"
+msgstr "сеанс"
+
+msgctxt "noun 2: disk s."
+msgid "session"
+msgstr "сесія"
+
+msgctxt "noun 1, -у"
+msgid "set"
+msgstr "збор"
+
+msgctxt "noun 2, in math"
+msgid "set"
+msgstr "мноства"
+
+msgctxt "verb, +настаўляць"
+msgid "set"
+msgstr "наставіць"
+
+msgid "setting"
+msgstr "настройка"
+
+msgctxt "noun, -у"
+msgid "set-up"
+msgstr "лад"
+
+msgctxt "noun 1, -у"
+msgid "setup"
+msgstr "лад"
+
+msgctxt "noun 2"
+msgid "setup"
+msgstr "наладка"
+
+msgctxt "verb, +наладжваць"
+msgid "setup"
+msgstr "наладзіць"
+
+msgctxt "verb, +скручваць"
+msgid "shade"
+msgstr "скруціць"
+
+msgctxt "noun, -а"
+msgid "share"
+msgstr "супольны рэсурс"
+
+msgctxt "verb 1, +дзяліцца"
+msgid "share"
+msgstr "падзяліцца"
+
+msgctxt "verb 2, +супольна карыстацца"
+msgid "share"
+msgstr "супольна выкарыстаць"
+
+msgctxt "adjective 1"
+msgid "shared"
+msgstr "супольны"
+
+msgctxt "adjective 2"
+msgid "shared"
+msgstr "супольнадаступны"
+
+msgctxt "noun, -у"
+msgid "shortcut"
+msgstr "скарот"
+
+msgctxt "noun, -у"
+msgid "shortcut command"
+msgstr "загадны скарот"
+
+msgid "shortcut key"
+msgstr "хуткая клавіша"
+
+msgctxt "verb, +паказваць"
+msgid "show"
+msgstr "паказаць"
+
+msgctxt "verb, +ператасоўваць"
+msgid "shuffle"
+msgstr "ператасаваць"
+
+msgctxt "noun"
+msgid "shutdown"
+msgstr "спыненне працы"
+
+msgctxt "verb, +спыняць працу"
+msgid "shutdown"
+msgstr "спыніць працу"
+
+msgctxt "verb, +спыняць працу"
+msgid "shut down"
+msgstr "спыніць працу"
+
+msgctxt "noun, -у"
+msgid "side pane"
+msgstr "бакавы абшар"
+
+msgctxt "noun, -у"
+msgid "signature"
+msgstr "подпіс"
+
+msgid "similar"
+msgstr "падобны"
+
+msgid "site"
+msgstr "пляцоўка"
+
+msgid "skin"
+msgstr "вокладка"
+
+msgctxt "verb, +прапускаць"
+msgid "skip"
+msgstr "прапусціць"
+
+msgctxt "noun, -а"
+msgid "slash"
+msgstr "прамы скос"
+
+msgid "slave"
+msgstr "падначаленая машына"
+
+msgctxt "noun, -а"
+msgid "slider"
+msgstr "паўзунок"
+
+msgid "slideshow"
+msgstr "слайдшоў"
+
+msgid "slow key"
+msgstr "марудная клавіша"
+
+msgid "smart card"
+msgstr "смарт-карта"
+
+msgctxt "noun, -а"
+msgid "snapshot"
+msgstr "імгненны здымак"
+
+msgctxt "noun, -а"
+msgid "socket"
+msgstr "сокет"
+
+msgctxt "verb, +злучаць з сокетам"
+msgid "socket"
+msgstr "злучыць з сокетам"
+
+msgctxt "noun"
+msgid "software"
+msgstr "апраграмаванне"
+
+msgctxt "adjective"
+msgid "software"
+msgstr "праграмны"
+
+msgctxt "verb, +сартаваць"
+msgid "sort"
+msgstr "пасартаваць"
+
+msgctxt "adjective"
+msgid "source"
+msgstr "выточны"
+
+msgctxt "noun"
+msgid "source"
+msgstr "вытокі"
+
+msgctxt "noun, -у"
+msgid "source code"
+msgstr "выточны код"
+
+msgctxt "noun 1"
+msgid "space"
+msgstr "прастора"
+
+msgctxt "noun 2, -у"
+msgid "space"
+msgstr "прабел"
+
+msgctxt "noun 1, -у"
+msgid "spam"
+msgstr "спам"
+
+msgctxt "noun 2"
+msgid "spam"
+msgstr "непажаданая пошта"
+
+msgctxt "verb, +вызначаць"
+msgid "specify"
+msgstr "вызначыць"
+
+msgid "spellchecker"
+msgstr "прылада праверкі арфаграфіі"
+
+msgctxt "noun, -а"
+msgid "spin box"
+msgstr "круцільны лічыльнік"
+
+msgctxt "noun, -а, -аў"
+msgid "spreadsheet"
+msgstr "разліковы аркуш"
+
+msgctxt "noun 1, -а"
+msgid "stack"
+msgstr "стос"
+
+msgctxt "noun 2, -а"
+msgid "stack"
+msgstr "стус"
+
+msgctxt "verb, +стусаваць"
+msgid "stack"
+msgstr "адстусаваць"
+
+msgctxt "noun, -у"
+msgid "stacking order"
+msgstr "парадак стусавання"
+
+msgid "staggered"
+msgstr "адсунуты"
+
+msgctxt "noun, -у"
+msgid "standard"
+msgstr "стандарт"
+
+msgctxt "adjective"
+msgid "standard"
+msgstr "стандартны"
+
+msgctxt "noun, -у"
+msgid "standard input"
+msgstr "стандартны ўваход"
+
+msgctxt "noun, -у"
+msgid "standard output"
+msgstr "стандартны выхад"
+
+msgctxt "verb 1, +запускаць"
+msgid "start"
+msgstr "запусціць"
+
+msgctxt "verb 2, +пачынаць"
+msgid "start"
+msgstr "пачаць"
+
+msgid "statusbar"
+msgstr "стужка стану"
+
+msgctxt "noun, -у"
+msgid "stderr"
+msgstr "стандартны выхад для памылак"
+
+msgctxt "noun, -у"
+msgid "stdin"
+msgstr "стандартны ўваход"
+
+msgctxt "noun, -у"
+msgid "stdout"
+msgstr "стандартны выхад"
+
+msgctxt "verb, +ляпіць"
+msgid "stick"
+msgstr "прыляпіць"
+
+msgid "sticky key"
+msgstr "грузкая клавіша"
+
+msgctxt "noun 1"
+msgid "storage"
+msgstr "захоўванне"
+
+msgctxt "noun 2"
+msgid "storage"
+msgstr "сховішча"
+
+msgctxt "noun 3"
+msgid "storage"
+msgstr "памяць"
+
+msgctxt "noun"
+msgid "store"
+msgstr "памяць"
+
+msgctxt "verb, +захоўваць"
+msgid "store"
+msgstr "захаваць"
+
+msgctxt "noun, -еня, -яў"
+msgid "stream"
+msgstr "струмень"
+
+msgctxt "verb, +струменіць"
+msgid "stream"
+msgstr "адструменіць"
+
+msgid "strikethrough"
+msgstr "закрэслены"
+
+msgctxt "noun, -а"
+msgid "string"
+msgstr "ланцужок"
+
+msgctxt "verb, +складаць у ланцужок"
+msgid "string"
+msgstr "скласці ў ланцужок"
+
+msgid "structure"
+msgstr "структура"
+
+msgid "submenu"
+msgstr "падменю"
+
+msgctxt "verb, +слаць"
+msgid "submit"
+msgstr "прыслаць"
+
+msgid "subnetwork"
+msgstr "падсетка"
+
+msgctxt "verb, +падпісвацца"
+msgid "subscribe"
+msgstr "падпісацца"
+
+msgctxt "verb, +замяняць, +заменьваць"
+msgid "substitute"
+msgstr "замяніць"
+
+msgid "summary"
+msgstr "рэзюмэ"
+
+msgctxt "verb 1, +падтрымліваць"
+msgid "support"
+msgstr "падтрымаць"
+
+msgctxt "verb 2, +абслугоўваць"
+msgid "support"
+msgstr "абслужыць"
+
+msgctxt "verb 1, +стрымліваць"
+msgid "suspend"
+msgstr "стрымаць"
+
+msgctxt "verb 2, +прыпыняць"
+msgid "suspend"
+msgstr "прыпыніць"
+
+msgctxt "verb 1"
+msgid "swap"
+msgstr "свопіць"
+
+msgctxt "verb 2, +падмяняць"
+msgid "swap"
+msgstr "падмяніць"
+
+msgctxt "noun, -а"
+msgid "swapfile"
+msgstr "свопфайл"
+
+msgctxt "noun, -а"
+msgid "switching hub"
+msgstr "сеткавы канцэнтратар"
+
+msgid "symbolic link"
+msgstr "сімвальная спасылка"
+
+msgid "synchronize"
+msgstr "сінхранізаваць"
+
+msgctxt "noun, -а"
+msgid "system administrator"
+msgstr "сістэмны адміністратар"
+
+msgctxt "noun 1, -а"
+msgid "tab"
+msgstr "язычок карткі"
+
+msgctxt "noun"
+msgid "tab"
+msgstr "картка"
+
+msgctxt "noun, -у"
+msgid "tabbed pane"
+msgstr "абшар з карткамі"
+
+msgid "tabbed section"
+msgstr "цела карткі"
+
+msgid "table"
+msgstr "табліца"
+
+msgid "table of contents"
+msgstr "змест"
+
+msgctxt "noun, -а"
+msgid "tablet"
+msgstr "планшэт"
+
+msgctxt "noun 1, -а"
+msgid "tag"
+msgstr "цэтлік"
+
+msgctxt "noun 2, -а"
+msgid "tag"
+msgstr "тэг"
+
+msgctxt "verb, +чапляць цэтлік"
+msgid "tag"
+msgstr "прычапіць цэтлік"
+
+msgid "target"
+msgstr "мэта"
+
+msgid "task"
+msgstr "заданне"
+
+msgid "taskbar"
+msgstr "паліца заданняў"
+
+msgid "temporary"
+msgstr "часовы"
+
+msgctxt "noun, -а"
+msgid "terminal"
+msgstr "тэрмінал"
+
+msgctxt "adjective"
+msgid "terminal"
+msgstr "тэрмінальны"
+
+msgctxt "verb 1, +сканчаць"
+msgid "terminate"
+msgstr "скончыць"
+
+msgctxt "verb 2, +спыняць"
+msgid "terminate"
+msgstr "спыніць"
+
+msgctxt "noun, -у"
+msgid "text"
+msgstr "тэкст"
+
+msgctxt "adjective"
+msgid "text"
+msgstr "тэкставы"
+
+msgid "text box"
+msgstr "тэкставая графа"
+
+msgctxt "noun, -у"
+msgid "theme"
+msgstr "матыў аздаблення"
+
+msgctxt "noun 1: mail t."
+msgid "thread"
+msgstr "нізка"
+
+msgctxt "noun 2: execution t."
+msgid "thread"
+msgstr "ніць"
+
+msgid "thumbnail"
+msgstr "мініяцюра"
+
+msgctxt "verb, +кафляваць"
+msgid "tile"
+msgstr "закафляваць"
+
+msgctxt "noun"
+msgid "tile"
+msgstr "кафля"
+
+msgctxt "noun, -а"
+msgid "timestamp"
+msgstr "часавы адбітак"
+
+msgctxt "noun, -а"
+msgid "timezone"
+msgstr "часавы пояс"
+
+msgid "titlebar"
+msgstr "загалоўная стужка"
+
+msgctxt "verb, +пераключаць"
+msgid "toggle"
+msgstr "пераключыць"
+
+msgid "toggle button"
+msgstr "тумблерная кнопка"
+
+msgid "toggle key"
+msgstr "тумблерная клавіша"
+
+msgid "tool"
+msgstr "прылада"
+
+msgid "toolbar"
+msgstr "паліца прылад"
+
+msgid "toolbar button"
+msgstr "кнопка на паліцы прылад"
+
+msgctxt "noun, -у"
+msgid "toolkit"
+msgstr "набор прылад"
+
+msgid "tooltip"
+msgstr "падказка"
+
+msgctxt "verb, +кратаць"
+msgid "touch"
+msgstr "крануць"
+
+msgid "touchpad"
+msgstr "чулая панэль"
+
+msgctxt "noun, -а"
+msgid "touchscreen"
+msgstr "чулы экран"
+
+msgid "track"
+msgstr "сцежка"
+
+msgctxt "noun, -у"
+msgid "traffic"
+msgstr "трафік"
+
+msgid "trailing"
+msgstr "канцавы"
+
+msgctxt "noun"
+msgid "transfer"
+msgstr "перадача"
+
+msgctxt "verb, +перадаваць"
+msgid "transfer"
+msgstr "перадаць"
+
+msgctxt "noun 1, -а"
+msgid "translator"
+msgstr "перакладчык"
+
+msgctxt "noun 2, -а"
+msgid "translator"
+msgstr "транслятар"
+
+msgid "trash"
+msgstr "смецце"
+
+msgid "trash can"
+msgstr "сметніца"
+
+msgctxt "noun, -я"
+msgid "tray"
+msgstr "трэй"
+
+msgid "tree"
+msgstr "дрэва"
+
+msgid "triple-click"
+msgstr "тройчы пстрыкнуць"
+
+msgctxt "noun, -а"
+msgid "tutorial"
+msgstr "падручнік"
+
+msgctxt "verb, +падстройваць"
+msgid "tweak"
+msgstr "падстроіць"
+
+msgctxt "noun"
+msgid "tweak"
+msgstr "падстройка"
+
+msgctxt "noun 1, -у"
+msgid "type"
+msgstr "від"
+
+msgctxt "noun 2, -у: file t."
+msgid "type"
+msgstr "тып"
+
+msgctxt "verb, +пісаць"
+msgid "type"
+msgstr "напісаць"
+
+msgid "type face"
+msgstr "гарнітура"
+
+msgctxt "verb, +упісваць"
+msgid "type in"
+msgstr "упісаць"
+
+msgctxt "adjective 1"
+msgid "unavailable"
+msgstr "недаступны"
+
+msgctxt "adjective 2"
+msgid "unavailable"
+msgstr "заняты"
+
+msgctxt "verb, +скасоўваць сціск"
+msgid "uncompress"
+msgstr "скасаваць сціск"
+
+msgctxt "verb, +вычэрпвацца"
+msgid "underflow"
+msgstr "вычарпацца"
+
+msgctxt "noun"
+msgid "underflow"
+msgstr "вычарпанасць"
+
+msgctxt "verb, +падкрэсліваць"
+msgid "underline"
+msgstr "падкрэсліць"
+
+msgctxt "noun"
+msgid "underline"
+msgstr "лінія падкрэслівання"
+
+msgctxt "verb, +адрабляць"
+msgid "undo"
+msgstr "адрабіць"
+
+msgctxt "verb 1, +разгортваць са значка"
+msgid "uniconify"
+msgstr "разгарнуць са значка"
+
+msgctxt "verb 2, +аднаўляць"
+msgid "uniconify"
+msgstr "аднавіць"
+
+msgctxt "verb, +выдаляць"
+msgid "uninstall"
+msgstr "выдаліць"
+
+msgid "uninstaller"
+msgstr "прылада выдалення"
+
+msgctxt "verb, +аднаўляць"
+msgid "unmaximize"
+msgstr "аднавіць"
+
+msgctxt "verb, +адмацоўваць"
+msgid "unmount"
+msgstr "адмацаваць"
+
+msgctxt "adjective 1"
+msgid "unselected"
+msgstr "нявылучаны"
+
+msgctxt "adjective 2"
+msgid "unselected"
+msgstr "нявыбраны"
+
+msgctxt "verb, +раскручваць"
+msgid "unshade"
+msgstr "раскруціць"
+
+msgctxt "verb, +адпісвацца"
+msgid "unsubscribe"
+msgstr "адпісацца"
+
+msgctxt "verb, +абнаўляць"
+msgid "update"
+msgstr "абнавіць"
+
+msgctxt "noun"
+msgid "update"
+msgstr "абноўка"
+
+msgid "upgrade"
+msgstr "?"
+
+msgctxt "verb, +класці на сервер"
+msgid "upload"
+msgstr "пакласці на сервер"
+
+msgctxt "noun"
+msgid "upload"
+msgstr "змяшчэнне на серверы"
+
+msgid "usage"
+msgstr "правілы выкарыстання"
+
+msgctxt "noun, -а"
+msgid "user"
+msgstr "карыстальнік"
+
+msgid "user-friendly"
+msgstr "зручны"
+
+msgid "username"
+msgstr "імя карыстальніка"
+
+msgid "valid"
+msgstr "правільны"
+
+msgid "value"
+msgstr "значэнне"
+
+msgctxt "noun"
+msgid "variable"
+msgstr "зменная"
+
+msgctxt "adjective"
+msgid "variable"
+msgstr "зменны"
+
+msgctxt "adjective"
+msgid "vector"
+msgstr "вектарны"
+
+msgctxt "noun, -а"
+msgid "vector"
+msgstr "вектар"
+
+msgid "version"
+msgstr "версія"
+
+msgid "video"
+msgstr "відэа"
+
+msgid "video conference"
+msgstr "відэаканферэнцыя"
+
+msgctxt "noun 1, -у"
+msgid "view"
+msgstr "выгляд"
+
+msgctxt "noun 2, -у"
+msgid "view"
+msgstr "прагляд"
+
+msgctxt "verb 1, +праглядаць"
+msgid "view"
+msgstr "праглядзець"
+
+msgctxt "verb 2, +глядзець"
+msgid "view"
+msgstr "паглядзець"
+
+msgctxt "verb 3"
+msgid "view"
+msgstr "выглядаць"
+
+msgctxt "noun 2, -а"
+msgid "viewer"
+msgstr "праглядальнік"
+
+msgid "viewport"
+msgstr "прастора прагляду"
+
+msgctxt "noun 2, -у"
+msgid "view pane"
+msgstr "аглядны абшар"
+
+msgid "virtual"
+msgstr "віртуальны"
+
+msgid "virtual desktop"
+msgstr "прастора працы"
+
+msgid "virtual folder"
+msgstr "віртуальная папка"
+
+msgid "virtualization"
+msgstr "віртуалізацыя"
+
+msgid "virtualize"
+msgstr "віртуалізаваць"
+
+msgctxt "noun, -а"
+msgid "virus"
+msgstr "вірус"
+
+msgid "visibility"
+msgstr "відочнасць"
+
+msgctxt "verb, +наведваць"
+msgid "visit"
+msgstr "наведаць"
+
+msgid "visualization"
+msgstr "выяўленне"
+
+msgctxt "verb, +выяўляць"
+msgid "visualize"
+msgstr "выявіць"
+
+msgctxt "noun 1: sound v."
+msgid "volume"
+msgstr "гучнасць"
+
+msgctxt "noun 2, -а, тамы, -оў: disk v."
+msgid "volume"
+msgstr "дыскавы том"
+
+msgctxt "noun, -а"
+msgid "wallpaper"
+msgstr "абрус"
+
+msgid "warning"
+msgstr "перасцярога"
+
+msgctxt "noun"
+msgid "web"
+msgstr "сеціва"
+
+msgctxt "adjective"
+msgid "web"
+msgstr "сеціўны"
+
+msgid "webcam"
+msgstr "сеціўная відэакамера"
+
+msgid "webcast"
+msgstr "сеціўная відэатрансляцыя"
+
+msgid "weblink"
+msgstr "сеціўная спасылка"
+
+msgctxt "noun, -а"
+msgid "weblog"
+msgstr "блог"
+
+msgctxt "noun, -а"
+msgid "web browser"
+msgstr "сеціўны аглядальнік"
+
+msgctxt "noun, -а"
+msgid "webmaster"
+msgstr "адміністратар сеціўнай пляцоўкі"
+
+msgid "web page"
+msgstr "сеціўная старонка"
+
+msgid "web ring"
+msgstr "кола сеціўных рэсурсаў"
+
+msgid "websafe color palette"
+msgstr "гарантаваная сеціўная палітра"
+
+msgid "website"
+msgstr "сеціўная пляцоўка"
+
+msgctxt "noun 1"
+msgid "webspace"
+msgstr "сеціўнае асяроддзе"
+
+msgctxt "noun 2"
+msgid "webspace"
+msgstr "прастора на сеціўным серверы"
+
+msgctxt "noun, -а"
+msgid "widget"
+msgstr "віджэт"
+
+msgid "window"
+msgstr "акно"
+
+msgid "window frame"
+msgstr "рамка акна"
+
+msgid "window frame button"
+msgstr "кнопка на загалоўнай стужцы"
+
+msgid "window group"
+msgstr "група вокнаў"
+
+msgctxt "noun, -а"
+msgid "window list"
+msgstr "спіс вокнаў"
+
+msgid "window list button"
+msgstr "кнопка спіса вокнаў"
+
+msgctxt "noun, -а"
+msgid "window list icon"
+msgstr "значок спіса вокнаў"
+
+msgid "window name"
+msgstr "назва акна"
+
+msgctxt "noun, -у, -оў"
+msgid "wire"
+msgstr "провад"
+
+msgctxt "adjective 1"
+msgid "wired"
+msgstr "злучаны з сеткай"
+
+msgctxt "adjective 2"
+msgid "wired"
+msgstr "правадны"
+
+msgid "wireless"
+msgstr "бесправадны"
+
+msgctxt "noun, -а"
+msgid "wizard"
+msgstr "памочнік"
+
+msgid "workspace"
+msgstr "прастора працы"
+
+msgctxt "noun, -а"
+msgid "workspace list"
+msgstr "спіс прастор працы"
+
+msgid "workstation"
+msgstr "працоўная станцыя"
+
+msgid "wrapper"
+msgstr "абгортка"
+
+msgctxt "verb, пісаць"
+msgid "write"
+msgstr "запісаць"
+
+msgctxt "verb, +змяняць маштаб"
+msgid "zoom"
+msgstr "змяніць маштаб"
+
+msgctxt "verb, +набліжаць"
+msgid "zoom in"
+msgstr "наблізіць"
+
+msgctxt "verb, +аддаляць"
+msgid "zoom out"
+msgstr "аддаліць"
