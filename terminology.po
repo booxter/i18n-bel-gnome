@@ -704,9 +704,9 @@ msgctxt "noun 2"
 msgid "capability"
 msgstr "магчымасць"
 
-msgctxt "noun, -у"
+msgctxt "noun, -а"
 msgid "case"
-msgstr "памер літар"
+msgstr "рэгістр"
 
 msgctxt "noun 1"
 msgid "center"
