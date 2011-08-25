@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: gnome-terminology\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-26 17:47+0300\n"
-"PO-Revision-Date: 2011-03-28 15:43+0200\n"
+"PO-Revision-Date: 2011-08-25 19:19+0300\n"
 "Last-Translator: Ігар Грачышка <ihar.hrachyshka@gmail.com>\n"
 "Language-Team: Belarusian Gnome team <i18n-bel-gnome@googlegroups.com>\n"
 "Language: be\n"
@@ -83,7 +83,7 @@ msgstr "дзейнасць"
 
 msgctxt "verb 1, +прыстасоўваць"
 msgid "adapt"
-msgstr "прыстасаваць; прыстасоўвацца, прыстасавацца"
+msgstr "прыстасаваць"
 
 msgctxt "verb 2, +прыстасоўвацца"
 msgid "adapt"
@@ -120,7 +120,7 @@ msgstr "адрасаваць"
 
 msgctxt "verb 1, +падстройваць"
 msgid "adjust"
-msgstr "падстроіць; падстройвацца, падстроіцца"
+msgstr "падстроіць"
 
 msgctxt "verb 2, +падстройвацца"
 msgid "adjust"
@@ -448,6 +448,9 @@ msgctxt "adjective 2"
 msgid "available"
 msgstr "вольны"
 
+msgid "avatar"
+msgstr "аватара"
+
 msgctxt "noun 1, -а"
 msgid "background"
 msgstr "фон"
@@ -459,6 +462,9 @@ msgstr "абрус"
 msgctxt "noun 3, -а"
 msgid "background"
 msgstr "задні план"
+
+msgid "backlight"
+msgstr "падсветка экрана"
 
 msgctxt "noun, -а"
 msgid "backslash"
@@ -539,16 +545,27 @@ msgctxt "verb, +параўноўваць з эталонам"
 msgid "benchmark"
 msgstr "параўнаць з эталонам"
 
+msgctxt "noun, -а"
+msgid "bit"
+msgstr "біт"
+
 msgid "bitmap"
 msgstr "растравая выява"
+
+msgid "bitrate"
+msgstr "частата бітаў"
 
 msgctxt "adjective"
 msgid "blank"
 msgstr "пусты"
 
-msgctxt "verb, +ачышчаць"
+msgctxt "verb 1, +ачышчаць"
 msgid "blank"
 msgstr "ачысціць"
+
+msgctxt "verb 2, +зачарняць: b. screen"
+msgid "blank"
+msgstr "зачарніць"
 
 msgctxt "verb, +прысылаць таемную копію"
 msgid "blind-copy"
@@ -723,6 +740,9 @@ msgstr "здольнасць"
 msgctxt "noun 2"
 msgid "capability"
 msgstr "магчымасць"
+
+msgid "capacity"
+msgstr "ёмістасць"
 
 msgctxt "noun 1: sound c."
 msgid "card"
@@ -975,9 +995,13 @@ msgstr "супольны"
 msgid "communication"
 msgstr "камунікацыя"
 
-msgctxt "adjective"
+msgctxt "adjective 1"
 msgid "compact"
 msgstr "шчыльны"
+
+msgctxt "adjective 2"
+msgid "compact"
+msgstr "кампактны"
 
 msgctxt "verb 1, +сціскаць"
 msgid "compact"
@@ -992,7 +1016,7 @@ msgid "compact disc"
 msgstr "кампакт-дыск"
 
 msgid "compatibility"
-msgstr "узгодненасць"
+msgstr "сумяшчальнасць"
 
 msgctxt "verb 1, +збіраць"
 msgid "compile"
@@ -1068,8 +1092,13 @@ msgctxt "verb, +сціскаць"
 msgid "compress"
 msgstr "сціснуць"
 
+msgctxt "noun 1"
 msgid "compression"
 msgstr "сцісканне"
+
+msgctxt "noun 2"
+msgid "compression"
+msgstr "сціснутасць"
 
 msgid "computation"
 msgstr "лічэнне"
@@ -1285,6 +1314,10 @@ msgctxt "verb 2, +псаваць"
 msgid "corrupt"
 msgstr "сапсаваць"
 
+msgctxt "noun, -а"
+msgid "counter"
+msgstr "лічыльнік"
+
 msgid "counterclockwise"
 msgstr "супраць гадзіннікавай стрэлкі"
 
@@ -1375,6 +1408,10 @@ msgctxt "verb, +наладжваць"
 msgid "debug"
 msgstr "адладзіць"
 
+msgctxt "noun, -а"
+msgid "debugger"
+msgstr "адладчык"
+
 msgid "debugging"
 msgstr "адладка"
 
@@ -1414,12 +1451,16 @@ msgstr "выдаліць"
 msgid "deinstaller"
 msgstr "прылада выдалення"
 
+msgctxt "noun, -у"
+msgid "deinterlacing"
+msgstr "дэінтэрлэйсінг"
+
 msgid "delay"
 msgstr "затрымка"
 
-msgctxt "verb, +сціраць"
+msgctxt "verb, +выдаляць"
 msgid "delete"
-msgstr "сцерці"
+msgstr "выдаліць"
 
 msgctxt "verb, +адмяжоўваць"
 msgid "delimit"
@@ -1743,8 +1784,13 @@ msgctxt "verb 2, +укарэньваць"
 msgid "embed"
 msgstr "укараніць"
 
+msgctxt "adjective 1"
 msgid "embedded"
 msgstr "убудаваны"
+
+msgctxt "adjective 2"
+msgid "embedded"
+msgstr "укарэнены"
 
 msgid "emblem"
 msgstr "эмблема"
@@ -1937,13 +1983,20 @@ msgstr "прадаўжэнне"
 msgid "external"
 msgstr "вонкавы"
 
-msgctxt "verb, +вымаць"
+msgctxt "verb 1, +вымаць"
 msgid "extract"
 msgstr "выняць"
+
+msgctxt "verb 2, +здабываць"
+msgid "extract"
+msgstr "здабыць"
 
 msgctxt "noun, =цытата"
 msgid "extract"
 msgstr "вынятка"
+
+msgid "extrapolate"
+msgstr "экстрапаліраваць"
 
 msgctxt "verb, +затухаць"
 msgid "fade"
@@ -2228,6 +2281,10 @@ msgctxt "noun, -а"
 msgid "foreground"
 msgstr "пярэдні план"
 
+msgctxt "verb, +адгаліноўваць"
+msgid "fork"
+msgstr "адгалінаваць"
+
 msgctxt "noun, -у"
 msgid "format"
 msgstr "фармат"
@@ -2372,6 +2429,9 @@ msgstr "генератар"
 
 msgid "generic"
 msgstr "агульны"
+
+msgid "geometry"
+msgstr "памеры акна"
 
 msgctxt "adjective 1"
 msgid "global"
@@ -2541,7 +2601,7 @@ msgstr "машына"
 
 msgctxt "verb 1, +змяшчаць"
 msgid "host"
-msgstr "змясціць; прымаць, прыняць"
+msgstr "змясціць"
 
 msgctxt "verb 2, +прымаць"
 msgid "host"
@@ -2560,6 +2620,10 @@ msgstr "хотспот"
 msgctxt "noun, -а"
 msgid "hub"
 msgstr "сеткавы канцэнтратар"
+
+msgctxt "noun, -у"
+msgid "hue"
+msgstr "тон"
 
 msgid "hyperlink"
 msgstr "сеціўная спасылка"
@@ -2583,6 +2647,9 @@ msgctxt "noun, -а"
 msgid "id"
 msgstr "ідэнтыфікатар"
 
+msgid "idle"
+msgstr "бяздзейны"
+
 msgctxt "verb, +ігнараваць"
 msgid "ignore"
 msgstr "праігнараваць"
@@ -2590,8 +2657,20 @@ msgstr "праігнараваць"
 msgid "illegal"
 msgstr "забаронены"
 
+msgctxt "noun 1: JPEG i."
 msgid "image"
 msgstr "выява"
+
+msgctxt "noun 2: disk i."
+msgid "image"
+msgstr "вобраз"
+
+msgctxt "verb, +рэалізоўваць"
+msgid "implement"
+msgstr "рэалізаваць"
+
+msgid "implementation"
+msgstr "рэалізацыя"
 
 msgctxt "adjective 1"
 msgid "implicit"
@@ -2745,6 +2824,9 @@ msgctxt "verb, +спалучаць праз інтэрфейс"
 msgid "interface"
 msgstr "спалучыць праз інтэрфейс"
 
+msgid "interlaced"
+msgstr "церазрадковы"
+
 msgid "internal"
 msgstr "унутраны"
 
@@ -2772,6 +2854,10 @@ msgid "interval"
 msgstr "перапынак"
 
 msgctxt "noun 3, -у"
+msgid "interval"
+msgstr "прамежак"
+
+msgctxt "noun 4, -у"
 msgid "interval"
 msgstr "прагал"
 
@@ -2837,6 +2923,9 @@ msgctxt "verb 3, +браць удзел"
 msgid "join"
 msgstr "узяць удзел"
 
+msgid "kernel"
+msgstr "ядро"
+
 msgctxt "noun 1, -а"
 msgid "key"
 msgstr "ключ"
@@ -2877,6 +2966,10 @@ msgctxt "noun, -у"
 msgid "keystroke"
 msgstr "націск клавішы"
 
+msgctxt "verb, +выпіхваць"
+msgid "kick"
+msgstr "выпхнуць"
+
 msgctxt "verb 1, +сканчаць"
 msgid "kill"
 msgstr "скончыць"
@@ -2904,6 +2997,9 @@ msgstr "цэтлік"
 msgctxt "verb, +чапляць цэтлік"
 msgid "label"
 msgstr "прычапіць цэтлік"
+
+msgid "landscape"
+msgstr "альбомны"
 
 msgctxt "noun, -а"
 msgid "laptop"
@@ -2945,7 +3041,7 @@ msgstr "састарэлы"
 
 msgctxt "noun, с.р., -ак і -каў"
 msgid "lid"
-msgstr "вечка"
+msgstr "вечка ноўтбука"
 
 msgctxt "noun, -а"
 msgid "light sensor"
@@ -3009,7 +3105,11 @@ msgctxt "verb 1"
 msgid "listen"
 msgstr "слухаць"
 
-msgctxt "verb 2, +прыслухоўвацца"
+msgctxt "verb 2, +праслухоўваць"
+msgid "listen"
+msgstr "праслухаць"
+
+msgctxt "verb 3, +прыслухоўвацца"
 msgid "listen"
 msgstr "прыслухацца"
 
@@ -3052,13 +3152,13 @@ msgstr "месцазнаходжанне"
 msgid "location bar"
 msgstr "паліца адрасу"
 
-msgctxt "verb 1, +блакіраваць"
-msgid "lock"
-msgstr "заблакіраваць"
-
-msgctxt "verb 2, +замыкаць"
+msgctxt "verb 1, +замыкаць"
 msgid "lock"
 msgstr "замкнуць"
+
+msgctxt "verb 2, +блакіраваць"
+msgid "lock"
+msgstr "заблакіраваць"
 
 msgctxt "verb 3, +знерухомліваць"
 msgid "lock"
@@ -3068,9 +3168,13 @@ msgctxt "verb 4, +знявольваць"
 msgid "lock"
 msgstr "зняволіць"
 
-msgctxt "noun, -а"
+msgctxt "noun 1, -а"
 msgid "lock"
 msgstr "замок"
+
+msgctxt "noun 2"
+msgid "lock"
+msgstr "блакіроўка"
 
 msgctxt "noun, -а"
 msgid "lock file"
@@ -3142,6 +3246,10 @@ msgstr "прыцішыць"
 msgctxt "verb 2, +памяншаць гучнасць"
 msgid "lower volume"
 msgstr "паменшыць гучнасць"
+
+msgctxt "noun, -у"
+msgid "low-power mode"
+msgstr "рэжым ашчаднага спажывання энергіі"
 
 msgid "magnifier"
 msgstr "лупа"
@@ -3380,6 +3488,10 @@ msgstr "ход"
 msgctxt "noun 2"
 msgid "move"
 msgstr "перамяшчэнне"
+
+msgctxt "noun, -а"
+msgid "movie"
+msgstr "фільм"
 
 msgid "multimedia"
 msgstr "мультымедыі"
@@ -3799,6 +3911,10 @@ msgid "picture"
 msgstr "карцінка"
 
 msgctxt "noun, -а"
+msgid "pipe"
+msgstr "канал"
+
+msgctxt "noun, -а"
 msgid "pixel"
 msgstr "піксел"
 
@@ -3875,6 +3991,9 @@ msgstr "порт"
 msgctxt "verb, +пераносіць"
 msgid "port"
 msgstr "перанесці"
+
+msgid "portrait"
+msgstr "партрэтны"
 
 msgctxt "noun 1"
 msgid "power"
@@ -3990,6 +4109,9 @@ msgstr "выканаўца"
 msgctxt "noun, -ю"
 msgid "profile"
 msgstr "профіль"
+
+msgid "profiling"
+msgstr "прафіляванне"
 
 msgctxt "verb 1, +развіваць"
 msgid "progress"
@@ -4381,6 +4503,9 @@ msgctxt "verb, +адрабляць"
 msgid "revert"
 msgstr "адрабіць"
 
+msgid "revoke"
+msgstr "адклікаць"
+
 msgctxt "verb, +адкручваць"
 msgid "rewind"
 msgstr "адкруціць"
@@ -4444,15 +4569,22 @@ msgctxt "noun, -ю"
 msgid "runlevel"
 msgstr "узровень функцыянавання сістэмы"
 
-msgctxt "noun, -у"
+msgctxt "noun 1, -у"
 msgid "sample"
 msgstr "узор"
+
+msgctxt "noun 2, -а: audio s."
+msgid "sample"
+msgstr "сэмпл"
 
 msgid "sandbox"
 msgstr "пясочніца"
 
 msgid "sans serif"
 msgstr "з засечкамі"
+
+msgid "saturation"
+msgstr "насычанасць"
 
 msgctxt "verb, +запісваць: =write"
 msgid "save"
@@ -4502,9 +4634,20 @@ msgctxt "noun, -а"
 msgid "scanner"
 msgstr "сканер"
 
+msgctxt "verb, +планаваць"
+msgid "schedule"
+msgstr "спланаваць"
+
+msgctxt "noun, -а"
+msgid "scheduler"
+msgstr "планіроўшчык"
+
 msgctxt "noun, -а"
 msgid "screen"
 msgstr "экран"
+
+msgid "screen name"
+msgstr "кантактнае імя"
 
 msgctxt "noun, -а"
 msgid "screensaver"
@@ -4584,6 +4727,9 @@ msgstr "адпраўнік"
 
 msgid "sensitivity"
 msgstr "адчувальнасць"
+
+msgid "separator"
+msgstr "падзяляльнік"
 
 msgid "serif"
 msgstr "без засечак"
@@ -4731,8 +4877,13 @@ msgctxt "noun, -а"
 msgid "slash"
 msgstr "прамы скос"
 
+msgctxt "noun 1"
 msgid "slave"
 msgstr "падначаленая машына"
+
+msgctxt "noun 2, -я"
+msgid "slave"
+msgstr "падначалены модуль"
 
 msgctxt "noun, -а"
 msgid "slider"
@@ -4740,6 +4891,10 @@ msgstr "паўзунок"
 
 msgid "slideshow"
 msgstr "слайдшоў"
+
+msgctxt "noun, -а"
+msgid "slot"
+msgstr "слот"
 
 msgid "slow key"
 msgstr "марудная клавіша"
@@ -4816,6 +4971,10 @@ msgstr "прылада праверкі арфаграфіі"
 msgctxt "noun, -а"
 msgid "spin box"
 msgstr "круцільны лічыльнік"
+
+msgctxt "verb: s. d. hard disk"
+msgid "spin down"
+msgstr "запаволіць"
 
 msgctxt "noun, -а, -аў"
 msgid "spreadsheet"
@@ -5114,6 +5273,10 @@ msgid "tile"
 msgstr "кафля"
 
 msgctxt "noun, -а"
+msgid "timer"
+msgstr "таймер"
+
+msgctxt "noun, -а"
 msgid "timestamp"
 msgstr "часавы адбітак"
 
@@ -5279,6 +5442,9 @@ msgctxt "noun"
 msgid "underline"
 msgstr "лінія падкрэслівання"
 
+msgid "underscore"
+msgstr "знак падкрэслівання"
+
 msgctxt "verb, +адрабляць"
 msgid "undo"
 msgstr "адрабіць"
@@ -5298,7 +5464,11 @@ msgstr "выдаліць"
 msgid "uninstaller"
 msgstr "прылада выдалення"
 
-msgctxt "verb"
+msgctxt "verb 1, +адмыкаць"
+msgid "unlock"
+msgstr "адамкнуць"
+
+msgctxt "verb 2"
 msgid "unlock"
 msgstr "разблакіраваць"
 
@@ -5473,6 +5643,9 @@ msgctxt "noun 2, -а, тамы, -оў: disk v."
 msgid "volume"
 msgstr "дыскавы том"
 
+msgid "wakeup"
+msgstr "абуджэнне"
+
 msgctxt "noun, -а"
 msgid "wallpaper"
 msgstr "абрус"
@@ -5577,6 +5750,9 @@ msgstr "бесправадны"
 msgctxt "noun, -а"
 msgid "wizard"
 msgstr "памочнік"
+
+msgid "working"
+msgstr "рабочы"
 
 msgid "workspace"
 msgstr "прастора працы"
