@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: gnome-terminology\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-26 17:47+0300\n"
-"PO-Revision-Date: 2011-08-25 19:19+0300\n"
+"PO-Revision-Date: 2011-09-02 15:38+0300\n"
 "Last-Translator: Ігар Грачышка <ihar.hrachyshka@gmail.com>\n"
 "Language-Team: Belarusian Gnome team <i18n-bel-gnome@googlegroups.com>\n"
 "Language: be\n"
@@ -237,11 +237,15 @@ msgctxt "noun 2"
 msgid "aliasing"
 msgstr "шурпатасць выявы"
 
-msgctxt "verb 1, +надзяляць"
+msgctxt "verb 1, +выдзяляць"
+msgid "allocate"
+msgstr "выдзеліць"
+
+msgctxt "verb 2, +надзяляць"
 msgid "allocate"
 msgstr "надзяліць"
 
-msgctxt "verb 2, +размяркоўваць"
+msgctxt "verb 3, +размяркоўваць"
 msgid "allocate"
 msgstr "размеркаваць"
 
@@ -566,6 +570,10 @@ msgstr "ачысціць"
 msgctxt "verb 2, +зачарняць: b. screen"
 msgid "blank"
 msgstr "зачарніць"
+
+msgctxt "verb 3, +сціраць: b. disk"
+msgid "blank"
+msgstr "сцерці"
 
 msgctxt "verb, +прысылаць таемную копію"
 msgid "blind-copy"
@@ -1321,6 +1329,9 @@ msgstr "лічыльнік"
 msgid "counterclockwise"
 msgstr "супраць гадзіннікавай стрэлкі"
 
+msgid "cover"
+msgstr "вокладка"
+
 msgctxt "noun, -а"
 msgid "CPU"
 msgstr "працэсар"
@@ -1341,6 +1352,9 @@ msgstr "крытэрыі"
 
 msgid "criterion"
 msgstr "крытэрый"
+
+msgid "cue sheet"
+msgstr "cue-табліца"
 
 msgctxt "adjective 1"
 msgid "current"
@@ -2449,6 +2463,10 @@ msgctxt "noun 2"
 msgid "glossary"
 msgstr "слоўніца"
 
+msgctxt "noun, -а"
+msgid "glyph"
+msgstr "гліф"
+
 msgid "GNOME Desktop"
 msgstr "Асяроддзе GNOME"
 
@@ -2567,7 +2585,7 @@ msgstr "гібернацыя"
 
 msgctxt "verb 1, +хаваць"
 msgid "hide"
-msgstr "схаваць; прыхоўваць, прыхаваць"
+msgstr "схаваць"
 
 msgctxt "verb 2, +прыхоўваць"
 msgid "hide"
@@ -2647,6 +2665,10 @@ msgctxt "noun, -а"
 msgid "id"
 msgstr "ідэнтыфікатар"
 
+msgctxt "noun"
+msgid "ideograph"
+msgstr "ідэаграма"
+
 msgid "idle"
 msgstr "бяздзейны"
 
@@ -2661,7 +2683,7 @@ msgctxt "noun 1: JPEG i."
 msgid "image"
 msgstr "выява"
 
-msgctxt "noun 2: disk i."
+msgctxt "noun 2, -у: disk i."
 msgid "image"
 msgstr "вобраз"
 
@@ -2705,6 +2727,9 @@ msgstr "бяздзейнасць"
 msgctxt "verb, +улучаць"
 msgid "include"
 msgstr "улучыць"
+
+msgid "incremental"
+msgstr "паступовы"
 
 msgctxt "noun, -а"
 msgid "index"
@@ -3024,6 +3049,10 @@ msgstr "размяшчэнне"
 msgctxt "noun 2: keyboard l."
 msgid "layout"
 msgstr "раскладка"
+
+msgctxt "noun 3: file l."
+msgid "layout"
+msgstr "структура"
 
 msgid "left-click"
 msgstr "пстрыкнуць левай кнопкай мышы"
@@ -3348,9 +3377,8 @@ msgctxt "verb"
 msgid "match"
 msgstr "адпавядаць"
 
-msgctxt "verb, +разгортваць"
 msgid "maximize"
-msgstr "разгарнуць"
+msgstr "максімалізаваць"
 
 msgctxt "noun 1, -а"
 msgid "medium"
@@ -3405,9 +3433,8 @@ msgctxt "noun, -у"
 msgid "MIME type"
 msgstr "MIME-тып"
 
-msgctxt "verb, +прыхоўваць"
 msgid "minimize"
-msgstr "прыхаваць"
+msgstr "мінімалізаваць"
 
 msgctxt "noun"
 msgid "mirror"
@@ -3739,6 +3766,10 @@ msgctxt "verb, +выводзіць"
 msgid "output"
 msgstr "вывесці"
 
+msgctxt "noun, -у"
+msgid "overburn"
+msgstr "празмерны запіс"
+
 msgctxt "verb, +перапаўняць"
 msgid "overflow"
 msgstr "перапоўніць"
@@ -3809,6 +3840,9 @@ msgstr "аб'ект на панэлі"
 msgctxt "noun, -а"
 msgid "parameter"
 msgstr "параметр"
+
+msgid "parent"
+msgstr "бацькоўскі"
 
 msgctxt "verb, +разбіраць"
 msgid "parse"
@@ -4789,9 +4823,9 @@ msgctxt "verb, +наладжваць"
 msgid "setup"
 msgstr "наладзіць"
 
-msgctxt "verb, +скручваць"
+msgctxt "verb, +скручваць у загаловак"
 msgid "shade"
-msgstr "скруціць"
+msgstr "скруціць у загаловак"
 
 msgctxt "noun, -а"
 msgid "share"
@@ -5291,9 +5325,13 @@ msgstr "тэрмін чакання"
 msgid "titlebar"
 msgstr "загалоўная стужка"
 
-msgctxt "verb, +пераключаць"
+msgctxt "verb 1, +пераключаць"
 msgid "toggle"
 msgstr "пераключыць"
+
+msgctxt "verb 2, +перамяняць"
+msgid "toggle"
+msgstr "перамяніць"
 
 msgid "toggle button"
 msgstr "тумблерная кнопка"
@@ -5332,8 +5370,9 @@ msgctxt "noun, -а"
 msgid "touchscreen"
 msgstr "чулы экран"
 
+msgctxt "noun, -а"
 msgid "track"
-msgstr "сцежка"
+msgstr "трэк"
 
 msgctxt "noun, -а"
 msgid "trackball"
@@ -5449,13 +5488,9 @@ msgctxt "verb, +адрабляць"
 msgid "undo"
 msgstr "адрабіць"
 
-msgctxt "verb 1, +разгортваць са значка"
+msgctxt "verb, +разгортваць са значка"
 msgid "uniconify"
 msgstr "разгарнуць са значка"
-
-msgctxt "verb 2, +аднаўляць"
-msgid "uniconify"
-msgstr "аднавіць"
 
 msgctxt "verb, +выдаляць"
 msgid "uninstall"
@@ -5472,9 +5507,9 @@ msgctxt "verb 2"
 msgid "unlock"
 msgstr "разблакіраваць"
 
-msgctxt "verb, +аднаўляць"
+msgctxt "verb, +касаваць максімалізацыю"
 msgid "unmaximize"
-msgstr "аднавіць"
+msgstr "скасаваць максімалізацыю"
 
 msgctxt "verb, +адмацоўваць"
 msgid "unmount"
@@ -5488,9 +5523,9 @@ msgctxt "adjective 2"
 msgid "unselected"
 msgstr "нявыбраны"
 
-msgctxt "verb, +раскручваць"
+msgctxt "verb, +раскручваць з загалоўка"
 msgid "unshade"
-msgstr "раскруціць"
+msgstr "раскруціць з загалоўка"
 
 msgctxt "verb, +адпісвацца"
 msgid "unsubscribe"
