@@ -48,9 +48,9 @@ msgstr "даступнасць для асоб з абмежаванымі ма�
 msgid "access key"
 msgstr "клавіша доступу"
 
-msgctxt "noun, computing, -а"
+msgctxt "noun, computing, -y"
 msgid "account"
-msgstr "конт"
+msgstr "уліковы запіс"
 
 msgctxt "noun, banking, -а"
 msgid "account"
